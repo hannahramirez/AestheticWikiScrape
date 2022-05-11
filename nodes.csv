@@ -1,517 +1,704 @@
-relative_path,label
-/wiki/Abstract_Tech,Abstract Tech
-/wiki/Acid_Pixie,Acid Pixie
-/wiki/Acidwave,Acidwave
-/wiki/Adventurecore,Adventurecore
-/wiki/Afrofuturism,Afrofuturism
-/wiki/Afro-Victorian,Afro-Victorian
-/wiki/After_Hours,After Hours
-/wiki/Agrogirl/Agroboy,Agropeople
-/wiki/Alien,Alien
-/wiki/Alternative,Alternative
-/wiki/Americana,Americana
-/wiki/American_Pioneers,American Pioneers
-/wiki/American_Revolution,American Revolution
-/wiki/Ancient_Egypt,Ancient Egypt
-/wiki/Androgynous,Androgynous
-/wiki/Anemoiacore,Anemoiacore
-/wiki/Angelcore,Angelcore
-/wiki/Anglo_Gothic,Anglo Gothic
-/wiki/Angura_Kei,Angura Kei
-/wiki/Animecore,Animecore
-/wiki/Anti-Fashion,Anti-Fashion
-/wiki/Art_Academia,Art Academia
-/wiki/Arts_and_Crafts_Movement,Arts and Crafts Movement
-/wiki/Art_Deco,Art Deco
-/wiki/Art_Hoe,Art Hoe
-/wiki/Art_Nouveau,Art Nouveau
-/wiki/Athlete,Athlete
-/wiki/Atompunk,Atompunk
-/wiki/Auroracore,Auroracore
-/wiki/Autumn,Autumn
-/wiki/Avant-garde,Avant-garde
-/wiki/Babycore,Babycore
-/wiki/Babygirl,Babygirl
-/wiki/Barbiecore,Barbiecore
-/wiki/Bardcore,Bardcore
-/wiki/Baddie,Baddie
-/wiki/Baddie,Luxurious Baddie
-/wiki/Ballet_Academia,Ballet Academia
-/wiki/Baroque,Baroque
-/wiki/Bastardcore,Bastardcore
-/wiki/Beach_Bunny,Beach Bunny
-/wiki/Beatnik,Beatnik
-/wiki/Bibliopunk,Bibliopunk
-/wiki/Biker,Biker
-/wiki/Bimbo_Casual,Bold Casual
-/wiki/Biopunk,Biopunk
-/wiki/Bizarro_Fiction,Bizarro Fiction
-/wiki/Bookstore_Girl,Bookstore Girl
-/wiki/Bloomcore,Bloomcore
-/wiki/Bodikon,Bodikon
-/wiki/Bohemian,Bohemian
-/wiki/Bosozoku,Bōsōzoku
-/wiki/Boujee,Boujee
-/wiki/Breakcore,Breakcore
-/wiki/Brocore,Brocore
-/wiki/Bronzepunk,Bronzepunk
-/wiki/Bubble_Goth,Bubble Goth
-/wiki/Bubblegum_Bitch,Bubblegum Bitch
-/wiki/Bubblegum_Witch,Bubblegum Baddie
-/wiki/Cabincore,Cabincore
-/wiki/Cagole,Cagole
-/wiki/Camp,Camp
-/wiki/Campcore,Campcore
-/wiki/Candycore,Candycore
-/wiki/Carcore,Carcore
-/wiki/Cargopunk,Cargopunk
-/wiki/Carnivalcore,Carnivalcore
-/wiki/Cartelcore,Cartelcore
-/wiki/Cartooncore,Cartooncore
-/wiki/Casino,Casinocore
-/wiki/Cassette_Futurism,Cassette Futurism
-/wiki/Changelingcore,Changelingcore
-/wiki/Chav,Chav
-/wiki/Cherry_Emoji_Twitter,Cherry Emoji Twitter
-/wiki/Chic_Modernist,Chic Modernist
-/wiki/Cholo,Cholo
-/wiki/Christcore,Christcore
-/wiki/Christian_Girl_Autumn,Christian Girl Autumn
-/wiki/Christmas,Christmas
-/wiki/Chaotic_Academia,Chaotic Academia
-/wiki/City_Pop,City Pop
-/wiki/Classic_Academia,Classic Academia
-/wiki/Classic_Lolita,Classic Lolita
-/wiki/Classicism,Classicism
-/wiki/Cleancore,High Cleancore
-/wiki/Cleancore,Low Cleancore
-/wiki/Clockpunk,Clockpunk
-/wiki/Clowncore,Clowncore
-/wiki/Club,Club
-/wiki/Club_Kids,Club Kids
-/wiki/Coffee_House/Cafe,Coffee House
-/wiki/Comfy/Cozy,Comfy/Cozy
-/wiki/Common_White_Girl,Common White Girl
-/wiki/Comiccore,Comiccore
-/wiki/Concore,Concore
-/wiki/Constructivism,Constructivism
-/wiki/Corporate,Corporate
-/wiki/Corporate_Memphis,Corporate Memphis
-/wiki/Cottagecore,Cottagecore
-/wiki/Cottagegore,Cottagegore
-/wiki/Country,Country
-/wiki/Crackhead,Crackhead
-/wiki/Craftcore,Craftcore
-/wiki/Cripplepunk,Cripplepunk
-/wiki/Crowcore,Crowcore
-/wiki/Crustpunk,Crustpunk
-/wiki/Cryptid_Academia,Cryptid Academia
-/wiki/Cryptidcore,Cryptidcore
-/wiki/Cubism,Cubism
-/wiki/Cuddle_Party,Cuddle Party
-/wiki/Cultcore,Cultcore
-/wiki/Cult_Party_Kei,Cult Party Kei
-/wiki/Cyber_Minimalism,Cyber Minimalism
-/wiki/Cyberdelic,Cyberdelic
-/wiki/Cyberghetto,Cyberghetto
-/wiki/Cybergoth,Cybergoth
-/wiki/Cybergrunge,Cybergrunge
-/wiki/Cyberpop,Cyberpop
-/wiki/Cyberprep,Cyberprep
-/wiki/Cyberpunk,Cyberpunk
-/wiki/Danish_Pastel,Danish Pastel
-/wiki/Dark_Paradise,Dark Paradise
-/wiki/Dark_Academia,Dark Academia
-/wiki/Dark_Naturalism,Dark Naturalism
-/wiki/Dark_Nautical,Dark Nautical
-/wiki/Dark_Nymphet,Dark nymphet
-/wiki/Darkest_Academia,Darkest Academia
-/wiki/Dazecore,Dazecore
-/wiki/Decora,Decora
-/wiki/Decopunk,Decopunk
-/wiki/Desertwave,Desertwave
-/wiki/De_Stijl,De Stijl
-/wiki/Dethereal,Dethereal
-/wiki/Devilcore,Devilcore
-/wiki/Devilcore,Lustcore
-/wiki/Diner,Diner
-/wiki/Dieselpunk,Dieselpunk
-/wiki/Dolly_Kei,Dolly  Kei
-/wiki/Dracopunk,Dracopunk
-/wiki/Dragoncore,Dragoncore
-/wiki/Dreamy,Dreamy
-/wiki/Drugcore,Drugcore
-/wiki/Dual_Kawaii,Dual Kawaii
-/wiki/Dullcore,Dullcore
-/wiki/E-Boy,E-Boy
-/wiki/E-Girl,E-Girl
-/wiki/ElectroPop_08,ElectroPop 08
-/wiki/Electro_Swing,Electro Swing
-/wiki/Emo,Emo
-/wiki/Equestrian,Equestrian
-/wiki/Erokawa,Erokawa
-/wiki/Ethereal,Ethereal
-/wiki/Expressionism,Expressionism
-/wiki/Fairy_Academia,Fairy Academia
-/wiki/Fairycore,Fairycore
-/wiki/Fairy_Kei,Fairy Kei
-/wiki/Fairy_Tale,Fairy Tale
-/wiki/Fanfare,Fanfare
-/wiki/Fantasy,Fantasy
-/wiki/Fantasy_Astronomy,Fantasy Astronomy
-/wiki/Fashwave,Fashwave
-/wiki/Fauvism,Fauvism
-/wiki/Fawncore,Fawncore
-/wiki/Femme_Fatale,Femme Fatale
-/wiki/Film_Noir,Film Noir
-/wiki/Flapper,Flapper
-/wiki/Foodie,Foodie
-/wiki/Forestpunk,Forestpunk
-/wiki/French_Girl,French Girl
-/wiki/Fruity,Fruity
-/wiki/Frutiger_Aero,Frutiger Aero
-/wiki/Furry,Furry
-/wiki/Futago,Futago
-/wiki/Futurism,Futurism
-/wiki/Gadgetpunk,Gadgetpunk
-/wiki/Game_Night,Game Night
-/wiki/Gamercore,Gamercore
-/wiki/Gamine,Gamine
-/wiki/Geek,Geek
-/wiki/Gen_X_Soft_Club,Gen X Soft Club
-/wiki/Ghostcore,Ghostcore
-/wiki/Girl-Next-Door,Girl-Next-Door
-/wiki/Glam_Girl,Glam Girl
-/wiki/Glam_Rock,Glam Rock
-/wiki/Glitch,Glitch
-/wiki/Gloomcore,Gloomcore
-/wiki/Glowwave,Glowwave
-/wiki/Goblincore,Goblincore
-/wiki/Goblin_Academia,Goblin Academia
-/wiki/Golden_Age_of_Detective_Fiction,Golden Age of Detective Fiction
-/wiki/Golden_Hour,Golden Hour
-/wiki/Gopnik,Gopnikcore
-/wiki/Gorecore,Gorecore
-/wiki/Goth,Goth
-/wiki/Gothcore,Gothcore
-/wiki/Gothic,Gothic
-/wiki/Grandmillenial,Grandmillenial
-/wiki/Grandparentcore,Grandmacore
-/wiki/Green_Academia,Green Academia
-/wiki/Grindhouse,Grindhouse
-/wiki/Grunge,Grunge
-/wiki/Gurokawa,Gurokawa
-/wiki/Gyaru,Gyaru
-/wiki/Gyaru,Gyaruo
-/wiki/Hallyu,Hallyu
-/wiki/Hauntology,Hauntology
-/wiki/Halloween,Halloween
-/wiki/Happycore,Happycore
-/wiki/Hatecore,Hatecore
-/wiki/Haussmann_Paris,Haussmann Paris
-/wiki/Health_Goth,Health Goth
-/wiki/Heatwave,Heatwave
-/wiki/Heistcore,Heistcore
-/wiki/Hellenic,Hellenic
-/wiki/Hermaphroditus,Hermaphroditus
-/wiki/High_School_Dream,High School Dream
-/wiki/Hikecore,Hikecore
-/wiki/Hip-Hop,Hip-Hop
-/wiki/Hippie,Hippie
-/wiki/Hipster,Hipster
-/wiki/Historical_Americana,Historical Americana
-/wiki/Holosexual,Holosexual
-/wiki/Honeycore,Honeycore
-/wiki/Horror,Horror
-/wiki/Horror_Academia,Horror Academia
-/wiki/Hot_Topic,Hot Topic
-/wiki/Hustlewave,Hustlewave
-/wiki/Hydrogen,Hydrogen
-/wiki/Hyperpop,Hyperpop
-/wiki/Icepunk,Icepunk
-/wiki/Impressionism,Impressionism
-/wiki/Indie,Indie
-/wiki/Internet_Academia,Internet Academia
-/wiki/Italian_Mafia,Italian Mafia
-/wiki/Jamcore,Jamcore
-/wiki/Jersey_Shore,Jersey Shore
-/wiki/Joyride,Joyride
-/wiki/Juggalo,Juggalo
-/wiki/Junglecore,Junglecore
-/wiki/Junkpunk,Salvagepunk
-/wiki/Karasu_Zoku,Karasu Zoku
-/wiki/Kawaii,Kawaii
-/wiki/Kawaii_Gamer,Kawaii Gamer
-/wiki/Kidcore,Kidcore
-/wiki/Kid_Science,Kid Science
-/wiki/Kinderwhore,Kinderwhore
-/wiki/Kingcore,Kingcore
-/wiki/Knightcore,Knightcore
-/wiki/Kogal,Kogal
-/wiki/Kuromicore,Kuromicore
-/wiki/Labcore,Labcore
-/wiki/Laborwave,Laborwave
-/wiki/Lagenlook,Lagenlook
-/wiki/Larme_Kei,Larme Kei
-/wiki/La_Sape,La Sape
-/wiki/Light_Academia,Light Academia
-/wiki/Lightningwave,Stormywave
-/wiki/Lil_Girl,Lil Girl
-/wiki/Lit_Kid,Lit Kid
-/wiki/Liminal_Space,Liminal Space
-/wiki/Lo-Fi,Lo-Fi
-/wiki/Lolita,Lolita
-/wiki/Lounge,Lounge
-/wiki/Lovecore,Lovecore
-/wiki/Lunarpunk,Lunarpunk
-/wiki/Macaute,Macaute
-/wiki/Mad_Scientist,Mad Scientist
-/wiki/Magewave,Magewave
-/wiki/Maidcore,Maidcore
-/wiki/Mallgoth,Mallgoth
-/wiki/Mall_Ninja,Mall Ninja
-/wiki/Maximalism,Maximalism
-/wiki/McBling,McBling
-/wiki/Medicalcore,Medicalcore
-/wiki/Medieval,Medieval
-/wiki/MTV_Green_Sky,MTV Green Sky
-/wiki/Memphis,Memphis
-/wiki/Metal,Metal
-/wiki/Metalcore,Metalcore
-/wiki/Metrosexual,Metrosexual
-/wiki/Miami_Metro,Miami Metro
-/wiki/Midwest_Emo,Midwest Emo
-/wiki/Midwest_Gothic,Midwest Gothic
-/wiki/Military,Military
-/wiki/Milk,Milk
-/wiki/Miscellaneous_Academia,Miscellaneous Academia
-/wiki/Modernism,Modernism
-/wiki/Mori_Kei,Mori Kei
-/wiki/Morute,Morute
-/wiki/Mote_Kei,Mote Kei
-/wiki/Mosscore,Mosscore
-/wiki/MS_Paint,MS Paint
-/wiki/Mushroomcore,Mushroomcore
-/wiki/Musical_Academia,Musical Academia
-/wiki/Minimalism,Minimalism
-/wiki/Minimalism,Indie Minimalism
-/wiki/Minimalism,Pastel Minimalism
-/wiki/Minimalism,Matcha Minimalism
-/wiki/Mod,Mod
-/wiki/Nanopunk,Nanopunk
-/wiki/Natural_Philosophy,Green Academia
-/wiki/Naturecore,Naturecore
-/wiki/Nautical,Nautical
-/wiki/Nazi_Chic,Nazi Chic
-/wiki/Neko,Neko
-/wiki/Neomilitarism,Neomilitarism
-/wiki/Nerd,Nerd
-/wiki/Nerdcore,Nerdcore
-/wiki/New_Age,New Age
-/wiki/New_Romantic,New Romantic
-/wiki/Neo-Romanism,Neo-Romanism
-/wiki/Nintencore,Nintencore
-/wiki/Normcore,Normcore
-/wiki/Northerness,Northerness
-/wiki/Nostalgiacore,Nostalgiacore
-/wiki/Nuclear,Nuclearcore
-/wiki/Nymphet,Nymphet
-/wiki/Ocean_Academia,Ocean Academia
-/wiki/Ocean_Grunge,Ocean Grunge
-/wiki/Old_Hollywood,Old Hollywood
-/wiki/Old_Web,Webcore
-/wiki/Oshare_Kei,Oshare Kei
-/wiki/Pale,Pale Grunge
-/wiki/Palewave,Palewave
-/wiki/Paleocore,Paleocore
-/wiki/Party_Animal,Party Animal
-/wiki/Party_Kei,Party Kei
-/wiki/Pastel,Pastel
-/wiki/Pastel_Academia,Pastel Academia
-/wiki/Pastel_Goth,Pastel Goth
-/wiki/Pastel_Punk,Pastel Punk
-/wiki/Peach,Modern Peach
-/wiki/Peach,Vintage Peach
-/wiki/Pearly,Pearly
-/wiki/Peoplehood,Peoplehood
-/wiki/Photorealism,Photorealism
-/wiki/Pink_Parisian,Vintage Parisian
-/wiki/Pink_Princess_Aesthetic,Pink Princess
-/wiki/Pin-up,Pin-up
-/wiki/Pirate,Pirate
-/wiki/Pixel_Cutie,Pixel Cutie
-/wiki/Pixiecore,Pixiecore
-/wiki/Plaguecore,Plaguecore
-/wiki/Plant_Mom,Plant Mom
-/wiki/Playboy,Playboy
-/wiki/Pop,Pop
-/wiki/Pop_Art,Pop Art
-/wiki/Pop_Kei,Pop Kei
-/wiki/Post-Impressionism,Post-Impressionism
-/wiki/Postmodernism,Postmodernism
-/wiki/Post-Apocalyptic,Post-Apocalyptic
-/wiki/Post-rock,Post-rock
-/wiki/Prairiecore,Prairiecore
-/wiki/Preppy,Preppy
-/wiki/Princecore,Princecore
-/wiki/Princesscore,Princesscore
-/wiki/Psychedelica,Psychedelica
-/wiki/Punk,Punk
-/wiki/Purism,Purism
-/wiki/Queencore,Queencore
-/wiki/Queer_Academia,Queer Academia
-/wiki/Queercore,Queercore
-/wiki/R%26B,R&B
-/wiki/Racaille,Racaille
-/wiki/Rainbowcore,Rainbowcore
-/wiki/Rainy_Day,Rainy Day
-/wiki/Rangercore,Rangercore
-/wiki/Ratcore,Ratcore
-/wiki/Ravencore,Ravencore
-/wiki/Raver,Raver
-/wiki/Real_Life_Super_Hero,Real Life Super Hero
-/wiki/Realism,Realism
-/wiki/Reefwave,Reefwave
-/wiki/Regency,Regency
-/wiki/Retro-Futurism,Retro-Futurism
-/wiki/Rivethead,Rivethead
-/wiki/Roaring_20s,Roaring 20s
-/wiki/Robotics_Kids,Robotics Kids
-/wiki/Rococo,Rococo
-/wiki/Rollerwave,Rollerwave
-/wiki/Roma,Roma
-/wiki/Romantic_Goth,Romantic Goth
-/wiki/Romanticism,Romanticism
-/wiki/Romantic_Academia,Romantic Academia
-/wiki/Romantic_Italian,Romantic Italian
-/wiki/Royalcore,Royalcore
-/wiki/Rotcore,Rotcore
-/wiki/Rusticcore,Rusticcore
-/wiki/Sadpeople,Sadpeople
-/wiki/Sandalpunk,Sandalpunk
-/wiki/Sanriocore,Sanriocore
-/wiki/Science_Academia,Science Academia
-/wiki/Scrapbook,Scrapbook
-/wiki/Scrapper,Scrapper
-/wiki/Scene,Scene
-/wiki/Scoutcore,Scoutcore
-/wiki/Seapunk,Seapunk
-/wiki/Selkiecore,Selkiecore
-/wiki/Shanzhai,Shanzhai
-/wiki/Sh%C4%81_m%C7%8E_t%C3%A8,Shā mǎ tè
-/wiki/Shabby_Chic,Shabby Chic
-/wiki/Shironuri,Shironuri
-/wiki/Sizz,Sizz
-/wiki/Sleepycore,Sleepycore
-/wiki/Slimepunk,Slimepunk
-/wiki/Sloanies,Sloanies
-/wiki/Slutcore,Slutcore
-/wiki/Snowdrop,Snowdrop
-/wiki/Snow_bunny,Snow Bunny
-/wiki/Soft_Apocalypse,Soft Apocalypse
-/wiki/Softie,Softgirl
-/wiki/Softie,Soft Baddie
-/wiki/Softie,Dark Softgirl
-/wiki/Softie,Softboy
-/wiki/Soft_grunge,Soft Grunge
-/wiki/Soft_Macabre,Soft Macabre
-/wiki/Soggy,Soggy
-/wiki/Solarpunk,Solarpunk
-/wiki/Southern_Gothic,Southern Gothic (Fashion/Historical)
-/wiki/Southern_Gothic,Southern Gothic (Regional/Modern)
-/wiki/Sovietwave,Sovietwave
-/wiki/Spacecore,Spacecore
-/wiki/Sparklecore,Sparklecore
-/wiki/Spiritcore,Spiritcore
-/wiki/Spring,Spring
-/wiki/Spy_fiction,Spy Fiction
-/wiki/Steampunk,Steampunk
-/wiki/Steelpunk,Steelpunk
-/wiki/Stimwave,Stimwave
-/wiki/Stoner,Stoner
-/wiki/Stripcore,Stripcore
-/wiki/Studyblr,Studyblr
-/wiki/Studyplace,Studyplace
-/wiki/Suburban_Gothic,Suburban Gothic
-/wiki/Sukeban,Sukeban
-/wiki/Summer,Summer
-/wiki/Suprematism,Suprematism
-/wiki/Surf_Crush,Surf Crush
-/wiki/Surrealism,Surrealism
-/wiki/Surreal_Memer,Surreal Memer
-/wiki/Swenkas,Swenkas
-/wiki/Swordpunk,Swordpunk
-/wiki/Synthwave,Synthwave
-/wiki/Takenokozoku,Takenokozoku
-/wiki/Tenwave,Tenwave
-/wiki/Techwear,Techwear
-/wiki/Teddies,Teddies
-/wiki/Technical_Scene,Technical Scene
-/wiki/Teethcore,Teethcore
-/wiki/Theatre_Academia,Theatre Academia
-/wiki/Theatre_Kids,Theater Kids
-/wiki/Thrasher,Thrasher
-/wiki/Thriftcore,Thriftcore
-/wiki/Tomboy,Tomboy
-/wiki/Trad_Goth,Trad Goth
-/wiki/Trailer_Trash,Trailer Park Princess
-/wiki/Trashcore,Trashcore
-/wiki/Traumacore,Traumacore
-/wiki/Trendercore,Trendercore
-/wiki/Trillwave,Trillwave
-/wiki/Tropical,Tropical
-/wiki/Tupinipunk,Tupinipunk
-/wiki/Tweencore,Tweencore
-/wiki/Twee,Twee
-/wiki/Ukiyo-e,Ukiyo-e
-/wiki/Ulzzang,Ulzzang
-/wiki/Urbancore,Urbancore
-/wiki/Unicorncore,Unicorncore
-/wiki/Vacation_Dadcore,Vacation Dadcore
-/wiki/Vampire,Vampire
-/wiki/Vaporwave,Vaporwave
-/wiki/Vibrant_Academia,Vibrant Academia
-/wiki/Victorian,Victorian
-/wiki/Victorian_Goth,Victorian Goth
-/wiki/Viking,Viking
-/wiki/Vintage,Vintage
-/wiki/Vintage_Academia,Vintage Academia
-/wiki/Vintage_Academia,Vintage Academia
-/wiki/Virgo%27s_Tears,Virgo's Tears
-/wiki/Visual_Kei,Visual Kei
-/wiki/VSCO,VSCO Girl
-/wiki/VSCO,VSCO Boy
-/wiki/VSCO,Dark VSCO
-/wiki/VSCO,Winter VSCO
-/wiki/VSCO,Autumn VSCO
-/wiki/Voidpunk,Voidpunk
-/wiki/Vorticism,Vorticism
-/wiki/Vulture_Culture,Vulture Culture
-/wiki/Wabi-Sabi,Wabi-Sabi
-/wiki/Waif,Waif
-/wiki/Waldorf,Waldorf
-/wiki/Wanderlust,Wanderlust
-/wiki/Warmcore,Warmcore
-/wiki/Weirdcore,Weirdcore
-/wiki/Werewolf,Werewolf
-/wiki/Western,Western
-/wiki/Winter,Winter
-/wiki/Witchy_Academia,Witchy Academia
-/wiki/Witch_House,Witch House
-/wiki/Witchcore,Witchcore
-/wiki/Wizardcore,Wizardcore
-/wiki/Wonderland,Wonderland
-/wiki/Woodland_Goth,Woodland Goth
-/wiki/Wormcore,Wormcore
-/wiki/Writer_Academia,Writer Academia
-/wiki/Y2K,Y2K
-/wiki/Yakuza,Yakuza
-/wiki/Yami_Kawaii,Yami Kawaii
-/wiki/Yandere,Yandere
-/wiki/Yankeecore,Yankeecore
-/wiki/Yanki,Yanki
-/wiki/Yume_Kawaii,Yume Kawaii
-/wiki/Zombiecore,Zombiecore
-/wiki/1950s_Suburbia,1950s Suburbia
-/wiki/2_Tone,2 Tone
-/wiki/70s_Disco,70s Disco
+id,url
+1950s Suburbia,https://aesthetics.fandom.com/wiki/1950s_Suburbia
+2000's Autumn,https://aesthetics.fandom.com/wiki/2000%27s_Autumn
+2014-era tumblr,https://aesthetics.fandom.com/wiki/2014-era_tumblr
+2K Animecore,https://aesthetics.fandom.com/wiki/2K_Animecore
+2 Tone,https://aesthetics.fandom.com/wiki/2_Tone
+70s Disco,https://aesthetics.fandom.com/wiki/70s_Disco
+Abstract Tech,https://aesthetics.fandom.com/wiki/Abstract_Tech
+Acid Pixie,https://aesthetics.fandom.com/wiki/Acid_Pixie
+Acidwave,https://aesthetics.fandom.com/wiki/Acidwave
+Adventure pulp,https://aesthetics.fandom.com/wiki/Adventure_Pulp
+Adventurecore,https://aesthetics.fandom.com/wiki/Adventurecore
+Aetherpunk,https://aesthetics.fandom.com/wiki/Aetherpunk
+Afro-Victorian,https://aesthetics.fandom.com/wiki/Afro-Victorian
+Afrofuturism,https://aesthetics.fandom.com/wiki/Afrofuturism
+After Hours,https://aesthetics.fandom.com/wiki/After_Hours
+Agropeople,https://aesthetics.fandom.com/wiki/Agropeople
+Alien,https://aesthetics.fandom.com/wiki/Alien
+Alternative,https://aesthetics.fandom.com/wiki/Alternative
+American Pioneers,https://aesthetics.fandom.com/wiki/American_Pioneers
+American Revolution,https://aesthetics.fandom.com/wiki/American_Revolution
+Americana,https://aesthetics.fandom.com/wiki/Americana
+Analog Horror,https://aesthetics.fandom.com/wiki/Analog_Horror
+Ancient Egypt,https://aesthetics.fandom.com/wiki/Ancient_Egypt
+Androgynous,https://aesthetics.fandom.com/wiki/Androgynous
+Anemoiacore,https://aesthetics.fandom.com/wiki/Anemoiacore
+Angelcore,https://aesthetics.fandom.com/wiki/Angelcore
+Anglo Gothic,https://aesthetics.fandom.com/wiki/Anglo_Gothic
+Anglocore,https://aesthetics.fandom.com/wiki/Anglocore
+Angura Kei,https://aesthetics.fandom.com/wiki/Angura_Kei
+Animecore,https://aesthetics.fandom.com/wiki/Animecore
+Anti-Fashion,https://aesthetics.fandom.com/wiki/Anti-Fashion
+Antique Grunge,https://aesthetics.fandom.com/wiki/Antique_Grunge
+Arabfunny,https://aesthetics.fandom.com/wiki/Arabfunny
+Art Academia,https://aesthetics.fandom.com/wiki/Art_Academia
+Art Deco,https://aesthetics.fandom.com/wiki/Art_Deco
+Art Hoe,https://aesthetics.fandom.com/wiki/Art_Hoe
+Art Nouveau,https://aesthetics.fandom.com/wiki/Art_Nouveau
+Arts and Crafts Movement,https://aesthetics.fandom.com/wiki/Arts_and_Crafts_Movement
+Asian Baby Girl,https://aesthetics.fandom.com/wiki/Asian_Baby_Girl
+Athlete,https://aesthetics.fandom.com/wiki/Athlete
+Atompunk,https://aesthetics.fandom.com/wiki/Atompunk
+Auroracore,https://aesthetics.fandom.com/wiki/Auroracore
+Autumn,https://aesthetics.fandom.com/wiki/Autumn
+Avant-garde,https://aesthetics.fandom.com/wiki/Avant-garde
+Avant Apocalypse,https://aesthetics.fandom.com/wiki/Avant_Apocalypse
+Azure,https://aesthetics.fandom.com/wiki/Azure
+BDSM,https://aesthetics.fandom.com/wiki/BDSM
+Babycore,https://aesthetics.fandom.com/wiki/Babycore
+Babygirl,https://aesthetics.fandom.com/wiki/Babygirl
+Baddie,https://aesthetics.fandom.com/wiki/Baddie
+Luxurious Baddie,https://aesthetics.fandom.com/wiki/Baddie
+Ballet Academia,https://aesthetics.fandom.com/wiki/Ballet_Academia
+Barbiecore,https://aesthetics.fandom.com/wiki/Barbiecore
+Bardcore,https://aesthetics.fandom.com/wiki/Bardcore
+Baroque,https://aesthetics.fandom.com/wiki/Baroque
+Bastardcore,https://aesthetics.fandom.com/wiki/Bastardcore
+Batcore,https://aesthetics.fandom.com/wiki/Batcore
+Beach Bunny,https://aesthetics.fandom.com/wiki/Beach_Bunny
+Beatnik,https://aesthetics.fandom.com/wiki/Beatnik
+Berniewave,https://aesthetics.fandom.com/wiki/Berniewave
+Biker,https://aesthetics.fandom.com/wiki/Biker
+Bimbo Casual,https://aesthetics.fandom.com/wiki/Bimbo_Casual
+Biohazard,https://aesthetics.fandom.com/wiki/Biohazard
+Biopunk,https://aesthetics.fandom.com/wiki/Biopunk
+Bizarro Fiction,https://aesthetics.fandom.com/wiki/Bizarro_Fiction
+Black,https://aesthetics.fandom.com/wiki/Black
+Black-Holed Meme,https://aesthetics.fandom.com/wiki/Black-Holed_Meme
+Bloomcore,https://aesthetics.fandom.com/wiki/Bloomcore
+Blue,https://aesthetics.fandom.com/wiki/Blue
+Bodikon,https://aesthetics.fandom.com/wiki/Bodikon
+Bohemian,https://aesthetics.fandom.com/wiki/Bohemian
+Bombacore,https://aesthetics.fandom.com/wiki/Bombacore
+Bookstore Girl,https://aesthetics.fandom.com/wiki/Bookstore_Girl
+Bosozoku,https://aesthetics.fandom.com/wiki/Bosozoku
+Boujee,https://aesthetics.fandom.com/wiki/Boujee
+Breakcore,https://aesthetics.fandom.com/wiki/Breakcore
+Britpop,https://aesthetics.fandom.com/wiki/Britpop
+Brocore,https://aesthetics.fandom.com/wiki/Brocore
+Bronzepunk,https://aesthetics.fandom.com/wiki/Bronzepunk
+Brown,https://aesthetics.fandom.com/wiki/Brown
+Bubble Bujo,https://aesthetics.fandom.com/wiki/Bubble_Bujo
+Bubble Goth,https://aesthetics.fandom.com/wiki/Bubble_Goth
+Bubblegum Bitch,https://aesthetics.fandom.com/wiki/Bubblegum_Bitch
+Bubblegum Witch,https://aesthetics.fandom.com/wiki/Bubblegum_Witch
+C-Pop,https://aesthetics.fandom.com/wiki/C-Pop
+Cabincore,https://aesthetics.fandom.com/wiki/Cabincore
+Cagole,https://aesthetics.fandom.com/wiki/Cagole
+Camp,https://aesthetics.fandom.com/wiki/Camp
+Campcore,https://aesthetics.fandom.com/wiki/Campcore
+Candycore,https://aesthetics.fandom.com/wiki/Candycore
+Cargopunk,https://aesthetics.fandom.com/wiki/Cargopunk
+Carnivalcore,https://aesthetics.fandom.com/wiki/Carnivalcore
+Cartelcore,https://aesthetics.fandom.com/wiki/Cartelcore
+Cartooncore,https://aesthetics.fandom.com/wiki/Cartooncore
+Casino,https://aesthetics.fandom.com/wiki/Casino
+Cassette Futurism,https://aesthetics.fandom.com/wiki/Cassette_Futurism
+Celtic,https://aesthetics.fandom.com/wiki/Celtic
+Changelingcore,https://aesthetics.fandom.com/wiki/Changelingcore
+Chaotic Academia,https://aesthetics.fandom.com/wiki/Chaotic_Academia
+Chartreuse,https://aesthetics.fandom.com/wiki/Chartreuse
+Chav,https://aesthetics.fandom.com/wiki/Chav
+Cheiron Crush,https://aesthetics.fandom.com/wiki/Cheiron_Crush
+Chic Modernist,https://aesthetics.fandom.com/wiki/Chic_Modernist
+Rural China,https://aesthetics.fandom.com/wiki/Chinese_Cottagecore
+Cholo,https://aesthetics.fandom.com/wiki/Cholo
+Christcore,https://aesthetics.fandom.com/wiki/Christcore
+Christian Girl Autumn,https://aesthetics.fandom.com/wiki/Christian_Girl_Autumn
+Christmas,https://aesthetics.fandom.com/wiki/Christmas
+City Pop,https://aesthetics.fandom.com/wiki/City_Pop
+Classic Academia,https://aesthetics.fandom.com/wiki/Classic_Academia
+Classic Lolita,https://aesthetics.fandom.com/wiki/Classic_Lolita
+Classicism,https://aesthetics.fandom.com/wiki/Classicism
+Cleancore,https://aesthetics.fandom.com/wiki/Cleancore
+Clockpunk,https://aesthetics.fandom.com/wiki/Clockpunk
+Clowncore,https://aesthetics.fandom.com/wiki/Clowncore
+Club,https://aesthetics.fandom.com/wiki/Club
+Club Kids,https://aesthetics.fandom.com/wiki/Club_Kids
+Coffee House/Cafe,https://aesthetics.fandom.com/wiki/Coffee_House/Cafe
+Coffinwood,https://aesthetics.fandom.com/wiki/Coffinwood
+Colourful Black,https://aesthetics.fandom.com/wiki/Colourful_Black
+Comfy/Cozy,https://aesthetics.fandom.com/wiki/Comfy/Cozy
+Common White Girl,https://aesthetics.fandom.com/wiki/Common_White_Girl
+Concore,https://aesthetics.fandom.com/wiki/Concore
+Constructivism,https://aesthetics.fandom.com/wiki/Constructivism
+Corporate,https://aesthetics.fandom.com/wiki/Corporate
+Corporate Memphis,https://aesthetics.fandom.com/wiki/Corporate_Memphis
+Corporate Punk,https://aesthetics.fandom.com/wiki/Corporate_Punk
+Cottagecore,https://aesthetics.fandom.com/wiki/Cottagecore
+Cottagegore,https://aesthetics.fandom.com/wiki/Cottagegore
+Country,https://aesthetics.fandom.com/wiki/Country
+Crackhead,https://aesthetics.fandom.com/wiki/Crackhead
+Craftcore,https://aesthetics.fandom.com/wiki/Craftcore
+Cripplepunk,https://aesthetics.fandom.com/wiki/Cripplepunk
+Crowcore,https://aesthetics.fandom.com/wiki/Crowcore
+Crustpunk,https://aesthetics.fandom.com/wiki/Crustpunk
+Cryptid Academia,https://aesthetics.fandom.com/wiki/Cryptid_Academia
+Cryptidcore,https://aesthetics.fandom.com/wiki/Cryptidcore
+Cryptkeepercore,https://aesthetics.fandom.com/wiki/Cryptkeepercore
+Cubism,https://aesthetics.fandom.com/wiki/Cubism
+Cuddle Party,https://aesthetics.fandom.com/wiki/Cuddle_Party
+Cult Party Kei,https://aesthetics.fandom.com/wiki/Cult_Party_Kei
+Cultcore,https://aesthetics.fandom.com/wiki/Cultcore
+Cyan,https://aesthetics.fandom.com/wiki/Cyan
+Cyber Minimalism,https://aesthetics.fandom.com/wiki/Cyber_Minimalism
+Cyberdelic,https://aesthetics.fandom.com/wiki/Cyberdelic
+Cyberghetto,https://aesthetics.fandom.com/wiki/Cyberghetto
+Cybergoth,https://aesthetics.fandom.com/wiki/Cybergoth
+Cybergrunge,https://aesthetics.fandom.com/wiki/Cybergrunge
+CyberneticPunk,https://aesthetics.fandom.com/wiki/CyberneticPunk
+Cyberpop,https://aesthetics.fandom.com/wiki/Cyberpop
+Cyberprep,https://aesthetics.fandom.com/wiki/Cyberprep
+Cyberpunk,https://aesthetics.fandom.com/wiki/Cyberpunk
+Danish Pastel,https://aesthetics.fandom.com/wiki/Danish_Pastel
+DarkErrorcore,https://aesthetics.fandom.com/wiki/DarkErrorcore
+Dark Academia,https://aesthetics.fandom.com/wiki/Dark_Academia
+Dark Fantasy,https://aesthetics.fandom.com/wiki/Dark_Fantasy
+Dark Jock,https://aesthetics.fandom.com/wiki/Dark_Jock
+Dark Naturalism,https://aesthetics.fandom.com/wiki/Dark_Naturalism
+Dark Nautical,https://aesthetics.fandom.com/wiki/Dark_Nautical
+Dark Nymphet,https://aesthetics.fandom.com/wiki/Dark_Nymphet
+Dark Paradise,https://aesthetics.fandom.com/wiki/Dark_Paradise
+Darkcore,https://aesthetics.fandom.com/wiki/Darkcore
+Darkest Academia,https://aesthetics.fandom.com/wiki/Darkest_Academia
+Daydreampunk,https://aesthetics.fandom.com/wiki/Daydreampunk
+Dazecore,https://aesthetics.fandom.com/wiki/Dazecore
+De Stijl,https://aesthetics.fandom.com/wiki/De_Stijl
+Deathcore,https://aesthetics.fandom.com/wiki/Deathcore
+Deathrock,https://aesthetics.fandom.com/wiki/Deathrock
+Decopunk,https://aesthetics.fandom.com/wiki/Decopunk
+Decora,https://aesthetics.fandom.com/wiki/Decora
+Delicate Sweet,https://aesthetics.fandom.com/wiki/Delicate_Sweet
+Desertwave,https://aesthetics.fandom.com/wiki/Desertwave
+Dethereal,https://aesthetics.fandom.com/wiki/Dethereal
+Devilcore,https://aesthetics.fandom.com/wiki/Devilcore
+Lustcore,https://aesthetics.fandom.com/wiki/Devilcore
+Dieselpunk,https://aesthetics.fandom.com/wiki/Dieselpunk
+Diner,https://aesthetics.fandom.com/wiki/Diner
+Dionysism,https://aesthetics.fandom.com/wiki/Dionysism
+Dolly Kei,https://aesthetics.fandom.com/wiki/Dolly_Kei
+Dracopunk,https://aesthetics.fandom.com/wiki/Dracopunk
+Dragoncore,https://aesthetics.fandom.com/wiki/Dragoncore
+Drainer,https://aesthetics.fandom.com/wiki/Drainer
+Dreamcore,https://aesthetics.fandom.com/wiki/Dreamcore
+Dreamy,https://aesthetics.fandom.com/wiki/Dreamy
+Drugcore,https://aesthetics.fandom.com/wiki/Drugcore
+Dual Kawaii,https://aesthetics.fandom.com/wiki/Dual_Kawaii
+Duckcore,https://aesthetics.fandom.com/wiki/Duckcore
+Dullcore,https://aesthetics.fandom.com/wiki/Dullcore
+Dungeon Synth,https://aesthetics.fandom.com/wiki/Dungeon_Synth
+E-Boy,https://aesthetics.fandom.com/wiki/E-Boy
+E-Girl,https://aesthetics.fandom.com/wiki/E-Girl
+Earthcore,https://aesthetics.fandom.com/wiki/Earthcore
+ElectroPop 08,https://aesthetics.fandom.com/wiki/ElectroPop_08
+Electro Swing,https://aesthetics.fandom.com/wiki/Electro_Swing
+Emancicore,https://aesthetics.fandom.com/wiki/Emancicore
+Emo,https://aesthetics.fandom.com/wiki/Emo
+English Major,https://aesthetics.fandom.com/wiki/English_Major
+Equestrian,https://aesthetics.fandom.com/wiki/Equestrian
+Ero guro,https://aesthetics.fandom.com/wiki/Eroguro
+Erokawa,https://aesthetics.fandom.com/wiki/Erokawa
+Ethereal,https://aesthetics.fandom.com/wiki/Ethereal
+Europunk,https://aesthetics.fandom.com/wiki/Europunk
+Expressionism,https://aesthetics.fandom.com/wiki/Expressionism
+Fairy Academia,https://aesthetics.fandom.com/wiki/Fairy_Academia
+Fairy Grunge,https://aesthetics.fandom.com/wiki/Fairy_Grunge
+Fairy Kei,https://aesthetics.fandom.com/wiki/Fairy_Kei
+Fairy Tale,https://aesthetics.fandom.com/wiki/Fairy_Tale
+Fairycore,https://aesthetics.fandom.com/wiki/Fairycore
+Fanfare,https://aesthetics.fandom.com/wiki/Fanfare
+Fantasy,https://aesthetics.fandom.com/wiki/Fantasy
+Fantasy Astronomy,https://aesthetics.fandom.com/wiki/Fantasy_Astronomy
+Fashwave,https://aesthetics.fandom.com/wiki/Fashwave
+Fauvism,https://aesthetics.fandom.com/wiki/Fauvism
+Fawncore,https://aesthetics.fandom.com/wiki/Fawncore
+Femboy,https://aesthetics.fandom.com/wiki/Femboy
+Femme Fatale,https://aesthetics.fandom.com/wiki/Femme_Fatale
+Feralcore,https://aesthetics.fandom.com/wiki/Feralcore
+Film Noir,https://aesthetics.fandom.com/wiki/Film_Noir
+Flapper,https://aesthetics.fandom.com/wiki/Flapper
+Fluowave,https://aesthetics.fandom.com/wiki/Fluowave
+Folk Punk,https://aesthetics.fandom.com/wiki/Folk_Punk
+Foodie,https://aesthetics.fandom.com/wiki/Foodie
+Forestpunk,https://aesthetics.fandom.com/wiki/Forestpunk
+French Girl,https://aesthetics.fandom.com/wiki/French_Girl
+Frogcore,https://aesthetics.fandom.com/wiki/Frogcore
+Frutiger Aero,https://aesthetics.fandom.com/wiki/Frutiger_Aero
+Funky Seasons,https://aesthetics.fandom.com/wiki/Funky_Seasons
+Furry,https://aesthetics.fandom.com/wiki/Furry
+Futago,https://aesthetics.fandom.com/wiki/Futago
+Futurism,https://aesthetics.fandom.com/wiki/Futurism
+Gadgetpunk,https://aesthetics.fandom.com/wiki/Gadgetpunk
+Game Night,https://aesthetics.fandom.com/wiki/Game_Night
+Gamercore,https://aesthetics.fandom.com/wiki/Gamercore
+Gamine,https://aesthetics.fandom.com/wiki/Gamine
+Geek,https://aesthetics.fandom.com/wiki/Geek
+Gen X Soft Club,https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club
+Ghostcore,https://aesthetics.fandom.com/wiki/Ghostcore
+Girl-Next-Door,https://aesthetics.fandom.com/wiki/Girl-Next-Door
+Glam Girl,https://aesthetics.fandom.com/wiki/Glam_Girl
+Glam Rock,https://aesthetics.fandom.com/wiki/Glam_Rock
+Glitch,https://aesthetics.fandom.com/wiki/Glitchcore
+Gloomcore,https://aesthetics.fandom.com/wiki/Gloomcore
+Glowwave,https://aesthetics.fandom.com/wiki/Glowwave
+Goblin Academia,https://aesthetics.fandom.com/wiki/Goblin_Academia
+Goblincore,https://aesthetics.fandom.com/wiki/Goblincore
+Golden Age of Detective Fiction,https://aesthetics.fandom.com/wiki/Golden_Age_of_Detective_Fiction
+Golden Hour,https://aesthetics.fandom.com/wiki/Golden_Hour
+Gopnikcore,https://aesthetics.fandom.com/wiki/Gopnik
+Gorecore,https://aesthetics.fandom.com/wiki/Gorecore
+Gorpcore,https://aesthetics.fandom.com/wiki/Gorpcore
+Goth,https://aesthetics.fandom.com/wiki/Goth
+Gothcore,https://aesthetics.fandom.com/wiki/Gothcore
+Gothic,https://aesthetics.fandom.com/wiki/Gothic
+Gothic Lolita,https://aesthetics.fandom.com/wiki/Gothic_Lolita
+Grandmillenial,https://aesthetics.fandom.com/wiki/Grandmillenial
+Grandmacore,https://aesthetics.fandom.com/wiki/Grandparentcore
+Grandparentcore,https://aesthetics.fandom.com/wiki/Grandparentcore
+Greaser,https://aesthetics.fandom.com/wiki/Greaser
+Green,https://aesthetics.fandom.com/wiki/Green
+Green Academia,https://aesthetics.fandom.com/wiki/Green_Academia
+Grey,https://aesthetics.fandom.com/wiki/Grey
+Grey Academia,https://aesthetics.fandom.com/wiki/Grey_Academia
+Grindhouse,https://aesthetics.fandom.com/wiki/Grindhouse
+Groundcore,https://aesthetics.fandom.com/wiki/Groundcore
+Grunge,https://aesthetics.fandom.com/wiki/Grunge
+Gull Girl,https://aesthetics.fandom.com/wiki/Gull_Girl
+Gurokawa,https://aesthetics.fandom.com/wiki/Gurokawa
+Gyaru,https://aesthetics.fandom.com/wiki/Gyaru
+Gyaruo,https://aesthetics.fandom.com/wiki/Gyaru
+Hackercore,https://aesthetics.fandom.com/wiki/Hackercore
+Halloween,https://aesthetics.fandom.com/wiki/Halloween
+Hallyu,https://aesthetics.fandom.com/wiki/Hallyu
+Happycore,https://aesthetics.fandom.com/wiki/Happycore
+Hatecore,https://aesthetics.fandom.com/wiki/Hatecore
+Hauntology,https://aesthetics.fandom.com/wiki/Hauntology
+Haussmann Paris,https://aesthetics.fandom.com/wiki/Haussmann_Paris
+Havencore,https://aesthetics.fandom.com/wiki/Havencore
+Health Goth,https://aesthetics.fandom.com/wiki/Health_Goth
+Heatwave,https://aesthetics.fandom.com/wiki/Heatwave
+Heistcore,https://aesthetics.fandom.com/wiki/Heistcore
+Hellenic,https://aesthetics.fandom.com/wiki/Hellenic
+Hermaphroditus,https://aesthetics.fandom.com/wiki/Hermaphroditus
+Hermitpunk,https://aesthetics.fandom.com/wiki/Hermitpunk
+Hexatron,https://aesthetics.fandom.com/wiki/Hexatron
+Hi-NRG,https://aesthetics.fandom.com/wiki/Hi-NRG
+High School Dream,https://aesthetics.fandom.com/wiki/High_School_Dream
+Hikecore,https://aesthetics.fandom.com/wiki/Hikecore
+Hime Lolita,https://aesthetics.fandom.com/wiki/Hime_Lolita
+Hip-Hop,https://aesthetics.fandom.com/wiki/Hip-Hop
+Hippie,https://aesthetics.fandom.com/wiki/Hippie
+Hipster,https://aesthetics.fandom.com/wiki/Hipster
+Hispanicore,https://aesthetics.fandom.com/wiki/Hispanicore
+Historical Americana,https://aesthetics.fandom.com/wiki/Historical_Americana
+Holosexual,https://aesthetics.fandom.com/wiki/Holosexual
+Honeycore,https://aesthetics.fandom.com/wiki/Honeycore
+Horror,https://aesthetics.fandom.com/wiki/Horror
+Horror Academia,https://aesthetics.fandom.com/wiki/Horror_Academia
+Hot Topic,https://aesthetics.fandom.com/wiki/Hot_Topic
+Hustlewave,https://aesthetics.fandom.com/wiki/Hustlewave
+Hydrogen,https://aesthetics.fandom.com/wiki/Hydrogen
+Hyperpop,https://aesthetics.fandom.com/wiki/Hyperpop
+I'm 14 and this is deep,https://aesthetics.fandom.com/wiki/I_am_14_and_this_is_deep
+Icepunk,https://aesthetics.fandom.com/wiki/Icepunk
+Impressionism,https://aesthetics.fandom.com/wiki/Impressionism
+Incel,https://aesthetics.fandom.com/wiki/Incel
+Indicolite,https://aesthetics.fandom.com/wiki/Indicolite
+Indie,https://aesthetics.fandom.com/wiki/Indie
+Indie Kid,https://aesthetics.fandom.com/wiki/Indie_Kid
+Indie Sleaze,https://aesthetics.fandom.com/wiki/Indie_Sleaze
+Indigo,https://aesthetics.fandom.com/wiki/Indigo
+Intel Core,https://aesthetics.fandom.com/wiki/Intel_Core
+Internet Academia,https://aesthetics.fandom.com/wiki/Internet_Academia
+Italian Mafia,https://aesthetics.fandom.com/wiki/Italian_Mafia
+Italo Disco,https://aesthetics.fandom.com/wiki/Italo_Disco
+Jamcore,https://aesthetics.fandom.com/wiki/Jamcore
+Jersey Shore,https://aesthetics.fandom.com/wiki/Jersey_Shore
+Joyride,https://aesthetics.fandom.com/wiki/Joyride
+Juggalo,https://aesthetics.fandom.com/wiki/Juggalo
+Jungle Grunge,https://aesthetics.fandom.com/wiki/Jungle_Grunge
+Junglecore,https://aesthetics.fandom.com/wiki/Junglecore
+Karasu Zoku,https://aesthetics.fandom.com/wiki/Karasu_Zoku
+Karencore,https://aesthetics.fandom.com/wiki/Karencore
+Kawaii,https://aesthetics.fandom.com/wiki/Kawaii
+Kawaii Gamer,https://aesthetics.fandom.com/wiki/Kawaii_Gamer
+Key West Kitten,https://aesthetics.fandom.com/wiki/Key_West_Kitten
+Kid Science,https://aesthetics.fandom.com/wiki/Kid_Science
+Kidcore,https://aesthetics.fandom.com/wiki/Kidcore
+Kimoicore,https://aesthetics.fandom.com/wiki/Kimoicore
+Kinderwhore,https://aesthetics.fandom.com/wiki/Kinderwhore
+King Gas,https://aesthetics.fandom.com/wiki/King_Gas
+Kingcore,https://aesthetics.fandom.com/wiki/Kingcore
+Knightcore,https://aesthetics.fandom.com/wiki/Knightcore
+Kogal,https://aesthetics.fandom.com/wiki/Kogal
+Kuromicore,https://aesthetics.fandom.com/wiki/Kuromicore
+LI-core,https://aesthetics.fandom.com/wiki/LI-core
+La Sape,https://aesthetics.fandom.com/wiki/La_Sape
+Labcore,https://aesthetics.fandom.com/wiki/Labcore
+Laborwave,https://aesthetics.fandom.com/wiki/Laborwave
+Lagenlook,https://aesthetics.fandom.com/wiki/Lagenlook
+Larme Kei,https://aesthetics.fandom.com/wiki/Larme_Kei
+Libertywave,https://aesthetics.fandom.com/wiki/Libertywave
+Light Academia,https://aesthetics.fandom.com/wiki/Light_Academia
+Lightcore,https://aesthetics.fandom.com/wiki/Lightcore
+Lightningwave,https://aesthetics.fandom.com/wiki/Lightningwave
+Lil Girl,https://aesthetics.fandom.com/wiki/Lil_Girl
+Liminal Space,https://aesthetics.fandom.com/wiki/Liminal_Space
+Lit Kid,https://aesthetics.fandom.com/wiki/Lit_Kid
+Lo-Fi,https://aesthetics.fandom.com/wiki/Lo-Fi
+Lolita,https://aesthetics.fandom.com/wiki/Lolita
+Lounge,https://aesthetics.fandom.com/wiki/Lounge
+Lovecore,https://aesthetics.fandom.com/wiki/Lovecore
+Lunarpunk,https://aesthetics.fandom.com/wiki/Lunarpunk
+Major League Gaming,https://aesthetics.fandom.com/wiki/MLG
+MS Paint,https://aesthetics.fandom.com/wiki/MS_Paint
+MTV Green Sky,https://aesthetics.fandom.com/wiki/MTV_Green_Sky
+Macademia,https://aesthetics.fandom.com/wiki/Macademia
+Macaute,https://aesthetics.fandom.com/wiki/Macaute
+Mad Scientist,https://aesthetics.fandom.com/wiki/Mad_Scientist
+Magenta,https://aesthetics.fandom.com/wiki/Magenta
+Magewave,https://aesthetics.fandom.com/wiki/Magewave
+Magical Girls,https://aesthetics.fandom.com/wiki/Magical_Girls
+Maidcore,https://aesthetics.fandom.com/wiki/Maidcore
+Mall Ninja,https://aesthetics.fandom.com/wiki/Mall_Ninja
+Mall Pop,https://aesthetics.fandom.com/wiki/Mall_Pop
+Mallgoth,https://aesthetics.fandom.com/wiki/Mallgoth
+Massivecockcore,https://aesthetics.fandom.com/wiki/Massivecockcore
+Maximalism,https://aesthetics.fandom.com/wiki/Maximalism
+McBling,https://aesthetics.fandom.com/wiki/McBling
+Meatcore,https://aesthetics.fandom.com/wiki/Meatcore
+Medicalcore,https://aesthetics.fandom.com/wiki/Medicalcore
+Medieval,https://aesthetics.fandom.com/wiki/Medieval
+Medieval Fantasy,https://aesthetics.fandom.com/wiki/Medieval_Fantasy
+Memphis,https://aesthetics.fandom.com/wiki/Memphis
+Metal,https://aesthetics.fandom.com/wiki/Metal
+Metalcore,https://aesthetics.fandom.com/wiki/Metalcore
+Metalheart,https://aesthetics.fandom.com/wiki/Metalheart
+Metrosexual,https://aesthetics.fandom.com/wiki/Metrosexual
+Miami Metro,https://aesthetics.fandom.com/wiki/Miami_Metro
+Midwest Emo,https://aesthetics.fandom.com/wiki/Midwest_Emo
+Midwest Gothic,https://aesthetics.fandom.com/wiki/Midwest_Gothic
+Military,https://aesthetics.fandom.com/wiki/Military
+Milk,https://aesthetics.fandom.com/wiki/Milk
+Mind Murder,https://aesthetics.fandom.com/wiki/Mind_Murder
+Miniaturecore,https://aesthetics.fandom.com/wiki/Miniaturecore
+Minimalism,https://aesthetics.fandom.com/wiki/Minimalism
+Indie Minimalism,https://aesthetics.fandom.com/wiki/Minimalism
+Pastel Minimalism,https://aesthetics.fandom.com/wiki/Minimalism
+Matcha Minimalism,https://aesthetics.fandom.com/wiki/Minimalism
+Miscellaneous Academia,https://aesthetics.fandom.com/wiki/Miscellaneous_Academia
+Mod,https://aesthetics.fandom.com/wiki/Mod
+Modernism,https://aesthetics.fandom.com/wiki/Modernism
+Mommy's on-the-phonecore,https://aesthetics.fandom.com/wiki/Mommy%27s_on-the-phonecore
+Monkeycore,https://aesthetics.fandom.com/wiki/Monkeycore
+Mori Kei,https://aesthetics.fandom.com/wiki/Mori_Kei
+Morute,https://aesthetics.fandom.com/wiki/Morute
+Mosscore,https://aesthetics.fandom.com/wiki/Mosscore
+Mote Kei,https://aesthetics.fandom.com/wiki/Mote_Kei
+Mulchcore,https://aesthetics.fandom.com/wiki/Mulchcore
+Mushroomcore,https://aesthetics.fandom.com/wiki/Mushroomcore
+Music,https://aesthetics.fandom.com/wiki/Music
+Musical Academia,https://aesthetics.fandom.com/wiki/Musical_Academia
+Mythpunk,https://aesthetics.fandom.com/wiki/Mythpunk
+Nanopunk,https://aesthetics.fandom.com/wiki/Nanopunk
+Naturecore,https://aesthetics.fandom.com/wiki/Naturecore
+Nautical,https://aesthetics.fandom.com/wiki/Nautical
+Nazi Chic,https://aesthetics.fandom.com/wiki/Nazi_Chic
+Neko,https://aesthetics.fandom.com/wiki/Neko
+Neo-Romanism,https://aesthetics.fandom.com/wiki/Neo-Romanism
+Neo-Tokyo,https://aesthetics.fandom.com/wiki/Neo-Tokyo
+Neo - Vikings,https://aesthetics.fandom.com/wiki/Neo_-_Vikings
+Neomilitarism,https://aesthetics.fandom.com/wiki/Neomilitarism
+Neon Academia,https://aesthetics.fandom.com/wiki/Neon_Academia
+Nerd,https://aesthetics.fandom.com/wiki/Nerd
+Nerdcore,https://aesthetics.fandom.com/wiki/Nerdcore
+New Age,https://aesthetics.fandom.com/wiki/New_Age
+New England Gothic,https://aesthetics.fandom.com/wiki/New_England_Gothic
+New Money,https://aesthetics.fandom.com/wiki/New_Money
+New Romantic,https://aesthetics.fandom.com/wiki/New_Romantic
+New Wave,https://aesthetics.fandom.com/wiki/New_Wave
+Nice Guy,https://aesthetics.fandom.com/wiki/Nice_Guy
+Nihilcore,https://aesthetics.fandom.com/wiki/Nihilcore
+Nintencore,https://aesthetics.fandom.com/wiki/Nintencore
+Normcore,https://aesthetics.fandom.com/wiki/Normcore
+Northerness,https://aesthetics.fandom.com/wiki/Northerness
+Nostalgiacore,https://aesthetics.fandom.com/wiki/Nostalgiacore
+Nu-Goth,https://aesthetics.fandom.com/wiki/Nu-Goth
+Nu-Metal,https://aesthetics.fandom.com/wiki/Nu-Metal
+Nuclearcore,https://aesthetics.fandom.com/wiki/Nuclear
+Nymphet,https://aesthetics.fandom.com/wiki/Nymphet
+Ocean Academia,https://aesthetics.fandom.com/wiki/Ocean_Academia
+Ocean Grunge,https://aesthetics.fandom.com/wiki/Ocean_Grunge
+Old Hollywood,https://aesthetics.fandom.com/wiki/Old_Hollywood
+Old Memecore,https://aesthetics.fandom.com/wiki/Old_Memecore
+Old Money,https://aesthetics.fandom.com/wiki/Old_Money
+Old Web,https://aesthetics.fandom.com/wiki/Old_Web
+Onii Kei,https://aesthetics.fandom.com/wiki/Onii_Kei
+Orange,https://aesthetics.fandom.com/wiki/Orange
+Oshare Kei,https://aesthetics.fandom.com/wiki/Oshare_Kei
+Otherkin,https://aesthetics.fandom.com/wiki/Otherkin
+Pachuco,https://aesthetics.fandom.com/wiki/Pachuco
+Pale Grunge,https://aesthetics.fandom.com/wiki/Pale_Grunge
+Paleocore,https://aesthetics.fandom.com/wiki/Paleocore
+Palewave,https://aesthetics.fandom.com/wiki/Palewave
+Party Animal,https://aesthetics.fandom.com/wiki/Party_Animal
+Party Kei,https://aesthetics.fandom.com/wiki/Party_Kei
+Pastel,https://aesthetics.fandom.com/wiki/Pastel
+Pastel Academia,https://aesthetics.fandom.com/wiki/Pastel_Academia
+Pastel Gore,https://aesthetics.fandom.com/wiki/Pastel_Gore
+Pastel Goth,https://aesthetics.fandom.com/wiki/Pastel_Goth
+Pastel Punk,https://aesthetics.fandom.com/wiki/Pastel_Punk
+Pastelslime Hospitalcore,https://aesthetics.fandom.com/wiki/Pastelslime_Hospitalcore
+Peach,https://aesthetics.fandom.com/wiki/Peach
+Peaky Blinders,https://aesthetics.fandom.com/wiki/Peaky_Blinders
+Pearly,https://aesthetics.fandom.com/wiki/Pearly
+Peoplehood,https://aesthetics.fandom.com/wiki/Peoplehood
+Philosophy,https://aesthetics.fandom.com/wiki/Philosophy
+Photorealism,https://aesthetics.fandom.com/wiki/Photorealism
+Pin-up,https://aesthetics.fandom.com/wiki/Pin-up
+Pink,https://aesthetics.fandom.com/wiki/Pink
+Pink Princess,https://aesthetics.fandom.com/wiki/Pink_Princess
+Pirate,https://aesthetics.fandom.com/wiki/Pirate
+Pixel Cutie,https://aesthetics.fandom.com/wiki/Pixel_Cutie
+Pixelscape,https://aesthetics.fandom.com/wiki/Pixelscape
+Pixiecore,https://aesthetics.fandom.com/wiki/Pixiecore
+Plaguecore,https://aesthetics.fandom.com/wiki/Plaguecore
+Plant Mom,https://aesthetics.fandom.com/wiki/Plant_Mom
+Playboy,https://aesthetics.fandom.com/wiki/Playboy
+Poetcore,https://aesthetics.fandom.com/wiki/Poetcore
+Poolcore,https://aesthetics.fandom.com/wiki/Poolcore
+Pop,https://aesthetics.fandom.com/wiki/Pop
+Pop Art,https://aesthetics.fandom.com/wiki/Pop_Art
+Pop Kei,https://aesthetics.fandom.com/wiki/Pop_Kei
+Post-Apocalyptic,https://aesthetics.fandom.com/wiki/Post-Apocalyptic
+Post-Impressionism,https://aesthetics.fandom.com/wiki/Post-Impressionism
+Post-Punk,https://aesthetics.fandom.com/wiki/Post-Punk
+Post-rock,https://aesthetics.fandom.com/wiki/Post-rock
+Powwow Step,https://aesthetics.fandom.com/wiki/Powwow_Step
+Prairiecore,https://aesthetics.fandom.com/wiki/Prairiecore
+Prehistoricore,https://aesthetics.fandom.com/wiki/Prehistoricore
+Preppy,https://aesthetics.fandom.com/wiki/Preppy
+Pretty preppy,https://aesthetics.fandom.com/wiki/Pretty_preppy
+Pride flags,https://aesthetics.fandom.com/wiki/Pride_flags
+Princecore,https://aesthetics.fandom.com/wiki/Princecore
+Princesscore,https://aesthetics.fandom.com/wiki/Princesscore
+Progressive Academia,https://aesthetics.fandom.com/wiki/Progressive_academia
+Psychedelica,https://aesthetics.fandom.com/wiki/Psychedelica
+Punk,https://aesthetics.fandom.com/wiki/Punk
+Purism,https://aesthetics.fandom.com/wiki/Purism
+Purple,https://aesthetics.fandom.com/wiki/Purple
+Quality Tumblr,https://aesthetics.fandom.com/wiki/Quality_Tumblr
+Queencore,https://aesthetics.fandom.com/wiki/Queencore
+Queer Academia,https://aesthetics.fandom.com/wiki/Queer_Academia
+Queercore,https://aesthetics.fandom.com/wiki/Queercore
+R&B,https://aesthetics.fandom.com/wiki/R%26B
+Racaille,https://aesthetics.fandom.com/wiki/Racaille
+Ragecore,https://aesthetics.fandom.com/wiki/Ragecore
+Rainbowcore,https://aesthetics.fandom.com/wiki/Rainbowcore
+Rainy Day,https://aesthetics.fandom.com/wiki/Rainy_Day
+Randumb,https://aesthetics.fandom.com/wiki/Randumb
+Rangercore,https://aesthetics.fandom.com/wiki/Rangercore
+Ratcore,https://aesthetics.fandom.com/wiki/Ratcore
+Ravencore,https://aesthetics.fandom.com/wiki/Ravencore
+Raver,https://aesthetics.fandom.com/wiki/Raver
+Real Life Super Hero,https://aesthetics.fandom.com/wiki/Real_Life_Super_Hero
+Realism,https://aesthetics.fandom.com/wiki/Realism
+Red,https://aesthetics.fandom.com/wiki/Red
+Reefwave,https://aesthetics.fandom.com/wiki/Reefwave
+Regency,https://aesthetics.fandom.com/wiki/Regency
+Regional Gothic,https://aesthetics.fandom.com/wiki/Regional_Gothic
+Retro-Futurism,https://aesthetics.fandom.com/wiki/Retro-Futurism
+Rivethead,https://aesthetics.fandom.com/wiki/Rivethead
+Roaring 20s,https://aesthetics.fandom.com/wiki/Roaring_20s
+Robotics Kids,https://aesthetics.fandom.com/wiki/Robotics_Kids
+Rock,https://aesthetics.fandom.com/wiki/Rock
+Rococo,https://aesthetics.fandom.com/wiki/Rococo
+Rogue core,https://aesthetics.fandom.com/wiki/Roguecore
+Rollerwave,https://aesthetics.fandom.com/wiki/Rollerwave
+Roma,https://aesthetics.fandom.com/wiki/Roma
+Romantic Academia,https://aesthetics.fandom.com/wiki/Romantic_Academia
+Romantic Goth,https://aesthetics.fandom.com/wiki/Romantic_Goth
+Romantic Italian,https://aesthetics.fandom.com/wiki/Romantic_Italian
+Romanticism,https://aesthetics.fandom.com/wiki/Romanticism
+Rose,https://aesthetics.fandom.com/wiki/Rose
+Rotcore,https://aesthetics.fandom.com/wiki/Rotcore
+Royal Abomination,https://aesthetics.fandom.com/wiki/Royal_abomination_academia
+Royalcore,https://aesthetics.fandom.com/wiki/Royalcore
+Rusticcore,https://aesthetics.fandom.com/wiki/Rusticcore
+SacriCore,https://aesthetics.fandom.com/wiki/SacriCore
+Sadpeople,https://aesthetics.fandom.com/wiki/Sadpeople
+Salon Kei,https://aesthetics.fandom.com/wiki/Salon_Kei
+Salvagepunk,https://aesthetics.fandom.com/wiki/Salvagepunk
+Sandalpunk,https://aesthetics.fandom.com/wiki/Sandalpunk
+Sanriocore,https://aesthetics.fandom.com/wiki/Sanriocore
+Scene,https://aesthetics.fandom.com/wiki/Scene
+Schizowave,https://aesthetics.fandom.com/wiki/Schizowave
+Schoolgirl Lifestyle,https://aesthetics.fandom.com/wiki/Schoolgirl_Lifestyle
+Science Academia,https://aesthetics.fandom.com/wiki/Science_Academia
+Scoutcore,https://aesthetics.fandom.com/wiki/Scoutcore
+Scrapbook,https://aesthetics.fandom.com/wiki/Scrapbook
+Scrapper,https://aesthetics.fandom.com/wiki/Scrapper
+Seapunk,https://aesthetics.fandom.com/wiki/Seapunk
+Selkiecore,https://aesthetics.fandom.com/wiki/Selkiecore
+Shabby Chic,https://aesthetics.fandom.com/wiki/Shabby_Chic
+Shadowcore,https://aesthetics.fandom.com/wiki/Shadowcore
+Shā mǎ tè,https://aesthetics.fandom.com/wiki/Shamate
+Shanzhai,https://aesthetics.fandom.com/wiki/Shanzhai
+Sharpies,https://aesthetics.fandom.com/wiki/Sharpies
+Shibuya Punk,https://aesthetics.fandom.com/wiki/Shibuya_Punk
+Shironuri,https://aesthetics.fandom.com/wiki/Shironuri
+Shoegaze,https://aesthetics.fandom.com/wiki/Shoegaze
+Simp,https://aesthetics.fandom.com/wiki/Simp
+Sizz,https://aesthetics.fandom.com/wiki/Sizz
+Skater,https://aesthetics.fandom.com/wiki/Skater
+Skinheads,https://aesthetics.fandom.com/wiki/Skinheads
+Sleepycore,https://aesthetics.fandom.com/wiki/Sleepycore
+Slimepunk,https://aesthetics.fandom.com/wiki/Slimepunk
+Sloanies,https://aesthetics.fandom.com/wiki/Sloanies
+Slutcore,https://aesthetics.fandom.com/wiki/Slutcore
+Smilecore,https://aesthetics.fandom.com/wiki/Smilecore
+Snow Bunny,https://aesthetics.fandom.com/wiki/Snow_Bunny
+Snowdrop,https://aesthetics.fandom.com/wiki/Snowdrop
+Soft Apocalypse,https://aesthetics.fandom.com/wiki/Soft_Apocalypse
+Soft Macabre,https://aesthetics.fandom.com/wiki/Soft_Macabre
+Soft Grunge,https://aesthetics.fandom.com/wiki/Soft_grunge
+Softgirl,https://aesthetics.fandom.com/wiki/Softie
+Soft Baddie,https://aesthetics.fandom.com/wiki/Softie
+Softie,https://aesthetics.fandom.com/wiki/Softie
+Softboy,https://aesthetics.fandom.com/wiki/Softie
+Oceanboy,https://aesthetics.fandom.com/wiki/Softie
+Soggy,https://aesthetics.fandom.com/wiki/Soggy
+Solarpunk,https://aesthetics.fandom.com/wiki/Solarpunk
+Southern Belle,https://aesthetics.fandom.com/wiki/Southern_Belle
+Southern Gothic,https://aesthetics.fandom.com/wiki/Southern_Gothic
+Sovietwave,https://aesthetics.fandom.com/wiki/Sovietwave
+Spacecore,https://aesthetics.fandom.com/wiki/Spacecore
+Sparklecore,https://aesthetics.fandom.com/wiki/Sparklecore
+Spiritcore,https://aesthetics.fandom.com/wiki/Spiritcore
+Spriggancore,https://aesthetics.fandom.com/wiki/Spriggancore
+Spring,https://aesthetics.fandom.com/wiki/Spring
+Spring Green,https://aesthetics.fandom.com/wiki/Spring_Green
+Spy Fiction,https://aesthetics.fandom.com/wiki/Spy_Fiction
+Steampunk,https://aesthetics.fandom.com/wiki/Steampunk
+Steelpunk,https://aesthetics.fandom.com/wiki/Steelpunk
+Stilyagi,https://aesthetics.fandom.com/wiki/Stilyagi
+Stimwave,https://aesthetics.fandom.com/wiki/Stimwave
+Stonepunk,https://aesthetics.fandom.com/wiki/Stonepunk
+Stoner,https://aesthetics.fandom.com/wiki/Stoner
+Stripcore,https://aesthetics.fandom.com/wiki/Stripcore
+Studyblr,https://aesthetics.fandom.com/wiki/Studyblr
+Studyplace,https://aesthetics.fandom.com/wiki/Studyplace
+Suburban Gothic,https://aesthetics.fandom.com/wiki/Suburban_Gothic
+Suffix Meaning,https://aesthetics.fandom.com/wiki/Suffix_Meaning
+Sukeban,https://aesthetics.fandom.com/wiki/Sukeban
+Summer,https://aesthetics.fandom.com/wiki/Summer
+Superflat Pop,https://aesthetics.fandom.com/wiki/Superflat_Pop
+Suprematism,https://aesthetics.fandom.com/wiki/Suprematism
+Surf Crush,https://aesthetics.fandom.com/wiki/Surf_Crush
+Surreal Memer,https://aesthetics.fandom.com/wiki/Surreal_Memer
+Surrealism,https://aesthetics.fandom.com/wiki/Surrealism
+Sweet Lolita,https://aesthetics.fandom.com/wiki/Sweet_Lolita
+Swenkas,https://aesthetics.fandom.com/wiki/Swenkas
+Swordpunk,https://aesthetics.fandom.com/wiki/Swordpunk
+Synthwave,https://aesthetics.fandom.com/wiki/Synthwave
+Takenokozoku,https://aesthetics.fandom.com/wiki/Takenokozoku
+Tanbi Kei,https://aesthetics.fandom.com/wiki/Tanbi_Kei
+Technical Scene,https://aesthetics.fandom.com/wiki/Technical_Scene
+Technocore,https://aesthetics.fandom.com/wiki/Technocore
+Technozen,https://aesthetics.fandom.com/wiki/Technozen
+Techwear,https://aesthetics.fandom.com/wiki/Techwear
+Teddies,https://aesthetics.fandom.com/wiki/Teddies
+Teethcore,https://aesthetics.fandom.com/wiki/Teethcore
+Tenwave,https://aesthetics.fandom.com/wiki/Tenwave
+Terrorwave,https://aesthetics.fandom.com/wiki/Terrorwave
+Teslapunk,https://aesthetics.fandom.com/wiki/Teslapunk
+That Girl,https://aesthetics.fandom.com/wiki/That_Girl
+Theatre Academia,https://aesthetics.fandom.com/wiki/Theatre_Academia
+Theatre Kids,https://aesthetics.fandom.com/wiki/Theatre_Kids
+Thrasher,https://aesthetics.fandom.com/wiki/Thrasher
+Thriftcore,https://aesthetics.fandom.com/wiki/Thriftcore
+Tiki,https://aesthetics.fandom.com/wiki/Tiki
+Tinkercore,https://aesthetics.fandom.com/wiki/Tinkercore
+Tinycore,https://aesthetics.fandom.com/wiki/Tinycore
+Tomboy,https://aesthetics.fandom.com/wiki/Tomboy
+Trad Goth,https://aesthetics.fandom.com/wiki/Trad_Goth
+Traditional Korean,https://aesthetics.fandom.com/wiki/Traditional_Korean
+Traditional Romanian,https://aesthetics.fandom.com/wiki/Traditional_Romainian
+Trailer Park Princess,https://aesthetics.fandom.com/wiki/Trailer_Park_Princess
+Trashcore,https://aesthetics.fandom.com/wiki/Trashcore
+Traumacore,https://aesthetics.fandom.com/wiki/Traumacore
+Trenchcore,https://aesthetics.fandom.com/wiki/Trenchcore
+Trendercore,https://aesthetics.fandom.com/wiki/Trendercore
+Trillwave,https://aesthetics.fandom.com/wiki/Trillwave
+Tropical,https://aesthetics.fandom.com/wiki/Tropical
+Tumblewave,https://aesthetics.fandom.com/wiki/Tumblewave
+Tupinipunk,https://aesthetics.fandom.com/wiki/Tupinipunk
+Twee,https://aesthetics.fandom.com/wiki/Twee
+Tweencore,https://aesthetics.fandom.com/wiki/Tweencore
+Ukiyo-e,https://aesthetics.fandom.com/wiki/Ukiyo-e
+Ulzzang,https://aesthetics.fandom.com/wiki/Ulzzang
+Unicorncore,https://aesthetics.fandom.com/wiki/Unicorncore
+Unliminal Space,https://aesthetics.fandom.com/wiki/Unliminal_Space
+Urban Fantasy,https://aesthetics.fandom.com/wiki/Urban_Fantasy
+Urbancore,https://aesthetics.fandom.com/wiki/Urbancore
+Utopian Scholastic,https://aesthetics.fandom.com/wiki/Utopian_Scholastic
+VARIOUSXYZ,https://aesthetics.fandom.com/wiki/VARIOUSXYZ
+VSCO,https://aesthetics.fandom.com/wiki/VSCO
+VSCO Preppy,https://aesthetics.fandom.com/wiki/VSCO_Preppy
+Vacation Dadcore,https://aesthetics.fandom.com/wiki/Vacation_Dadcore
+Vampire,https://aesthetics.fandom.com/wiki/Vampire
+Vaporcottage,https://aesthetics.fandom.com/wiki/Vaporcottage
+Vaporwave,https://aesthetics.fandom.com/wiki/Vaporwave
+Vectorheart,https://aesthetics.fandom.com/wiki/Vectorheart
+Vibrant Academia,https://aesthetics.fandom.com/wiki/Vibrant_Academia
+Victorian,https://aesthetics.fandom.com/wiki/Victorian
+Victorian Goth,https://aesthetics.fandom.com/wiki/Victorian_Goth
+Viking,https://aesthetics.fandom.com/wiki/Viking
+Villagecore,https://aesthetics.fandom.com/wiki/Villagecore
+Villaincore,https://aesthetics.fandom.com/wiki/Villaincore
+Vintage,https://aesthetics.fandom.com/wiki/Vintage
+Vintage Parisian,https://aesthetics.fandom.com/wiki/Vintage_Parisian
+Violet,https://aesthetics.fandom.com/wiki/Violet
+Virgo's Tears,https://aesthetics.fandom.com/wiki/Virgo%27s_Tears
+Visual Kei,https://aesthetics.fandom.com/wiki/Visual_Kei
+Visuals,https://aesthetics.fandom.com/wiki/Visuals
+Void-Meme,https://aesthetics.fandom.com/wiki/Void-Meme
+Voidcore,https://aesthetics.fandom.com/wiki/Voidcore
+Voidpunk,https://aesthetics.fandom.com/wiki/Voidpunk
+Vorticism,https://aesthetics.fandom.com/wiki/Vorticism
+Vulture Culture,https://aesthetics.fandom.com/wiki/Vulture_Culture
+Wabi-Sabi,https://aesthetics.fandom.com/wiki/Wabi-Sabi
+Waif,https://aesthetics.fandom.com/wiki/Waif
+Waldorf,https://aesthetics.fandom.com/wiki/Waldorf
+Wanderlust,https://aesthetics.fandom.com/wiki/Wanderlust
+Warmcore,https://aesthetics.fandom.com/wiki/Warmcore
+Weathercore,https://aesthetics.fandom.com/wiki/Weathercore
+Web Creep,https://aesthetics.fandom.com/wiki/Web_Creep
+Weeaboo,https://aesthetics.fandom.com/wiki/Weeaboo
+Weirdcore,https://aesthetics.fandom.com/wiki/Weirdcore
+Werewolf,https://aesthetics.fandom.com/wiki/Werewolf
+Western,https://aesthetics.fandom.com/wiki/Western
+Wetcore,https://aesthetics.fandom.com/wiki/Wetcore
+White,https://aesthetics.fandom.com/wiki/White
+Wild Child,https://aesthetics.fandom.com/wiki/Wild_Child
+Winter,https://aesthetics.fandom.com/wiki/Winter
+Witch House,https://aesthetics.fandom.com/wiki/Witch_House
+Witchcore,https://aesthetics.fandom.com/wiki/Witchcore
+Witchy Academia,https://aesthetics.fandom.com/wiki/Witchy_Academia
+Wizardcore,https://aesthetics.fandom.com/wiki/Wizardcore
+Wonderland,https://aesthetics.fandom.com/wiki/Wonderland
+Woodland Goth,https://aesthetics.fandom.com/wiki/Woodland_Goth
+Wormcore,https://aesthetics.fandom.com/wiki/Wormcore
+Writer Academia,https://aesthetics.fandom.com/wiki/Writer_Academia
+Wuxia,https://aesthetics.fandom.com/wiki/Wuxia
+Y2K,https://aesthetics.fandom.com/wiki/Y2K
+Yakuza,https://aesthetics.fandom.com/wiki/Yakuza
+Yami Kawaii,https://aesthetics.fandom.com/wiki/Yami_Kawaii
+Yandere,https://aesthetics.fandom.com/wiki/Yandere
+Yankeecore,https://aesthetics.fandom.com/wiki/Yankeecore
+Yanki,https://aesthetics.fandom.com/wiki/Yanki
+Yellow,https://aesthetics.fandom.com/wiki/Yellow
+Youthquake,https://aesthetics.fandom.com/wiki/Youthquake
+Yume Kawaii,https://aesthetics.fandom.com/wiki/Yume_Kawaii
+Zombiecore,https://aesthetics.fandom.com/wiki/Zombiecore

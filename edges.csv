@@ -1,3 +1,27 @@
+1950s Suburbia,Diner
+1950s Suburbia,Americana
+2000's Autumn,Dark Naturalism
+2000's Autumn,Fairy Grunge
+2000's Autumn,Fantasy
+2000's Autumn,Vampire
+2000's Autumn,Vintage
+2000's Autumn,Werewolf
+2K Animecore,Animecore
+2K Animecore,Magical Girls
+2K Animecore,Nostalgiacore
+2 Tone,New Wave
+2 Tone,Punk
+70s Disco,Club
+70s Disco,Psychedelica
+70s Disco,Rollerwave
+70s Disco,Glam Rock
+70s Disco,New Romantic
+70s Disco,Club Kids
+70s Disco,City Pop
+70s Disco,Vaporwave
+70s Disco,Androgynous
+70s Disco,R&B
+70s Disco,Afrofuturism
 Abstract Tech,Corporate
 Abstract Tech,Cyberprep
 Abstract Tech,Cyberpunk
@@ -19,13 +43,32 @@ Acidwave,Hippie
 Acidwave,Drugcore
 Acidwave,Psychedelica
 Acidwave,Indie Kid
+Adventure pulp,Adventurecore
+Adventure pulp,Americana
+Adventure pulp,Atompunk
+Adventure pulp,Tropical
+Adventure pulp,Desertwave
+Adventure pulp,Junglecore
+Adventure pulp,Cryptidcore
+Adventure pulp,Dieselpunk
+Adventure pulp,Western
+Adventure pulp,Pirate
+Adventure pulp,Victorian
+Adventure pulp,Tiki
+Adventure pulp,Spy Fiction
+Adventure pulp,Utopian Scholastic
 Adventurecore,Cabincore
 Adventurecore,Campcore
 Adventurecore,Cryptidcore
 Adventurecore,Goblincore
 Adventurecore,Naturecore
-Adventurecore,Natural Philosophy
+Adventurecore,Green Academia
 Adventurecore,Junglecore
+Aetherpunk,Steampunk
+Aetherpunk,Fantasy
+Afro-Victorian,Afrofuturism
+Afro-Victorian,La Sape
+Afro-Victorian,Victorian
 Afrofuturism,70s Disco
 Afrofuturism,Synthwave
 Afrofuturism,Cyberpunk
@@ -36,9 +79,6 @@ Afrofuturism,Real Life Super Hero
 Afrofuturism,Glam Rock
 Afrofuturism,R&B
 Afrofuturism,Androgynous
-Afro-Victorian,Afrofuturism
-Afro-Victorian,La Sape
-Afro-Victorian,Victorian
 After Hours,City Pop
 After Hours,Dark Paradise
 After Hours,Ethereal
@@ -51,7 +91,7 @@ After Hours,Vaporwave
 Agropeople,Cottagecore
 Agropeople,Western
 Alien,Cryptidcore
-Alien,Uchuu Kei
+Alien,Fairy Kei
 Alien,Glitch
 Alien,Glowwave
 Alien,Holosexual
@@ -67,6 +107,15 @@ Alternative,Punk
 Alternative,Post-Punk
 Alternative,Beatnik
 Alternative,Dark Academia
+American Pioneers,Adventurecore
+American Pioneers,Americana
+American Pioneers,Cottagecore
+American Pioneers,Campcore
+American Pioneers,Prairiecore
+American Pioneers,Western
+American Revolution,Americana
+American Revolution,American Pioneers
+American Revolution,Historical Americana
 Americana,Brocore
 Americana,Cottagecore
 Americana,Country
@@ -79,29 +128,27 @@ Americana,Scrapper
 Americana,Wanderlust
 Americana,Western
 Americana,Yankeecore
-American Pioneers,Adventurecore
-American Pioneers,Americana
-American Pioneers,Cottagecore
-American Pioneers,Campcore
-American Pioneers,Prairiecore
-American Pioneers,Western
-American Revolution,Americana
-American Revolution,American Pioneers
-American Revolution,Historical Americana
+Analog Horror,Horror
+Analog Horror,Liminal Space
+Analog Horror,Nostalgiacore
+Analog Horror,Technocore
+Analog Horror,Weirdcore
+Ancient Egypt,Hellenic
 Ancient Egypt,Art Deco
 Androgynous,Club Kids
 Androgynous,Cybergoth
+Androgynous,Deathrock
+Androgynous,Femboy
 Androgynous,Gamine
 Androgynous,Glam Rock
-Androgynous,Teddies
-Androgynous,Voidpunk
-Androgynous,New Romantic
-Androgynous,Deathrock
-Androgynous,Queercore
 Androgynous,Goth
+Androgynous,New Romantic
+Androgynous,Queercore
+Androgynous,Teddies
+Androgynous,Tomboy
 Androgynous,Trad Goth
 Androgynous,Visual Kei
-Androgynous,Tomboy
+Androgynous,Voidpunk
 Anemoiacore,After Hours
 Anemoiacore,Dreamy
 Anemoiacore,Surrealism
@@ -111,8 +158,6 @@ Anemoiacore,Nostalgiacore
 Anemoiacore,Liminal Space
 Angelcore,Baroque
 Angelcore,Bloomcore
-Angelcore,Butterfly
-Angelcore,Cloudcore
 Angelcore,Devilcore
 Angelcore,Dreamy
 Angelcore,Ethereal
@@ -142,7 +187,7 @@ Animecore,Erokawa
 Animecore,Geek
 Animecore,Magical Girls
 Animecore,Nostalgiacore
-Animecore,Old_Web
+Animecore,Old Web
 Animecore,Yandere
 Animecore,Yami Kawaii
 Animecore,Yume Kawaii
@@ -151,6 +196,14 @@ Anti-Fashion,Club Kids
 Anti-Fashion,Grunge
 Anti-Fashion,Normcore
 Anti-Fashion,Punk
+Antique Grunge,Delicate Sweet
+Antique Grunge,Fairycore
+Antique Grunge,Grunge
+Antique Grunge,Kinderwhore
+Antique Grunge,Morute
+Arabfunny,Bastardcore
+Arabfunny,Major League Gaming
+Arabfunny,Surreal Memer
 Art Academia,Art Hoe
 Art Academia,Ballet Academia
 Art Academia,Chaotic Academia
@@ -160,8 +213,6 @@ Art Academia,Musical Academia
 Art Academia,Studyblr
 Art Academia,Studyplace
 Art Academia,Writer Academia
-Arts and Crafts Movement,Victorian
-Arts and Crafts Movement,Art Nouveau
 Art Deco,Art Academia
 Art Deco,Decopunk
 Art Deco,Dieselpunk
@@ -184,6 +235,12 @@ Art Nouveau,Bohemian
 Art Nouveau,Fantasy
 Art Nouveau,Fairy Tale
 Art Nouveau,Fairycore
+Arts and Crafts Movement,Victorian
+Arts and Crafts Movement,Art Nouveau
+Asian Baby Girl,Baddie
+Asian Baby Girl,Femme Fatale
+Asian Baby Girl,Sukeban
+Asian Baby Girl,Boujee
 Athlete,Brocore
 Athlete,Health Goth
 Athlete,High School Dream
@@ -194,7 +251,6 @@ Atompunk,Modernism
 Atompunk,Retro-Futurism
 Auroracore,Angelcore
 Auroracore,Art Nouveau
-Auroracore,Cloudcore
 Auroracore,Dreamy
 Auroracore,Ethereal
 Auroracore,Fantasy
@@ -222,6 +278,16 @@ Avant-garde,De Stijl
 Avant-garde,Expressionism
 Avant-garde,Futurism
 Avant-garde,Modernism
+Avant Apocalypse,Art Hoe
+Avant Apocalypse,ElectroPop 08
+Avant Apocalypse,McBling
+Avant Apocalypse,Plaguecore
+Avant Apocalypse,Post-Apocalyptic
+Avant Apocalypse,Y2K
+Avant Apocalypse,Surf Crush
+BDSM,Babygirl
+BDSM,Goth
+BDSM,Pin-up
 Babycore,Babygirl
 Babycore,Kawaii
 Babycore,Kidcore
@@ -246,27 +312,9 @@ Babygirl,Sanriocore
 Babygirl,Slutcore
 Babygirl,Softie
 Babygirl,Unicorncore
-Barbiecore,Bubblegum Bitch
-Barbiecore,Common White Girl
-Barbiecore,Holosexual
-Barbiecore,Hyperpop
-Barbiecore,McBling
-Barbiecore,Sanriocore
-Barbiecore,Equestrian
-Barbiecore,Unicorncore
-Bardcore,Dragoncore
-Bardcore,Fantasy
-Bardcore,Pirate
-Bardcore,Kingcore
-Bardcore,Queencore
-Bardcore,Princecore
-Bardcore,Princesscore
-Bardcore,Knightcore
 Baddie,Barbiecore
-Baddie,Cherry Emoji Twitter
 Baddie,Femme Fatale
 Luxurious Baddie,Boujee
-Luxurious Baddie,Cherry Emoji Twitter
 Luxurious Baddie,Chic Modernist
 Luxurious Baddie,Femme Fatale
 Luxurious Baddie,Pearly
@@ -285,6 +333,22 @@ Ballet Academia,Romantic Goth
 Ballet Academia,Fairycore
 Ballet Academia,Fantasy
 Ballet Academia,Dark Fantasy
+Barbiecore,Bubblegum Bitch
+Barbiecore,Common White Girl
+Barbiecore,Holosexual
+Barbiecore,Hyperpop
+Barbiecore,McBling
+Barbiecore,Sanriocore
+Barbiecore,Equestrian
+Barbiecore,Unicorncore
+Bardcore,Dragoncore
+Bardcore,Fantasy
+Bardcore,Pirate
+Bardcore,Kingcore
+Bardcore,Queencore
+Bardcore,Princecore
+Bardcore,Princesscore
+Bardcore,Knightcore
 Baroque,Art Academia
 Baroque,Classicism
 Baroque,Ethereal
@@ -297,12 +361,26 @@ Baroque,Princesscore
 Baroque,Royalcore
 Bastardcore,Crackhead
 Bastardcore,Scrapper
+Batcore,Goth
+Batcore,Romantic Goth
+Batcore,Halloween
+Batcore,Cottagegore
+Batcore,Crowcore
+Batcore,Fairycore
+Batcore,Forestpunk
+Batcore,Dark Academia
+Batcore,Vampire
+Batcore,Cryptkeepercore
+Batcore,Ravencore
+Batcore,Vintage
+Batcore,Witchcore
+Batcore,Woodland Goth
 Beach Bunny,Poolcore
 Beach Bunny,Vacation Dadcore
 Beach Bunny,Vaporwave
 Beach Bunny,VSCO
 Beach Bunny,Seapunk
-Beach Bunny,Snow bunny
+Beach Bunny,Snow Bunny
 Beach Bunny,Summer
 Beach Bunny,Surf Crush
 Beatnik,Hippie
@@ -311,32 +389,31 @@ Beatnik,Hipster
 Beatnik,Vintage
 Beatnik,Dark Academia
 Beatnik,Post-Punk
-Bibliopunk,Chaotic Academia
-Bibliopunk,Dark Academia
 Biker,Bosozoku
 Biker,Punk
 Biker,Metalcore
 Biker,Metal
 Biker,Gyaru
 Biker,Grunge
-Bold Casual,Baddie
-Bold Casual,Chic Modernist
-Bold Casual,Cagole
-Bold Casual,Gyaru
-Bold Casual,Hermaphroditus
-Bold Casual,Softie
+Bimbo Casual,Baddie
+Bimbo Casual,Chic Modernist
+Bimbo Casual,Cagole
+Bimbo Casual,Gyaru
+Bimbo Casual,Hermaphroditus
+Bimbo Casual,Softie
+Biohazard,Breakcore
+Biohazard,Slimepunk
+Biohazard,Voidpunk
+Biohazard,Acidwave
+Biohazard,Glowwave
 Biopunk,Acid Pixie
 Biopunk,Cyberpunk
 Biopunk,Glowwave
 Biopunk,Science Academia
 Bizarro Fiction,Surrealism
 Bizarro Fiction,Weirdcore
-Bookstore Girl,Classic Academia
-Bookstore Girl,Light Academia
-Bookstore Girl,Dark Academia
-Bookstore Girl,Vintage
-Bookstore Girl,Warmcore
-Bookstore Girl,Autumn
+Black-Holed Meme,Glitch
+Black-Holed Meme,Surreal Memer
 Bloomcore,Cottagecore
 Bloomcore,Dreamy
 Bloomcore,Earthcore
@@ -344,11 +421,11 @@ Bloomcore,Fairy Academia
 Bloomcore,Fairycore
 Bloomcore,Fawncore
 Bloomcore,Golden Hour
+Bloomcore,Green Academia
 Bloomcore,Honeycore
 Bloomcore,Lovecore
 Bloomcore,Mosscore
 Bloomcore,Naturecore
-Bloomcore,Natural Philosophy
 Bloomcore,Romantic Academia
 Bloomcore,Rusticcore
 Bloomcore,Spring
@@ -361,8 +438,14 @@ Bodikon,Takenokozoku
 Bodikon,Gyaru
 Bohemian,Hippie
 Bohemian,Vintage
-Bōsōzoku,Yanki
-Bōsōzoku,Sukeban
+Bookstore Girl,Classic Academia
+Bookstore Girl,Light Academia
+Bookstore Girl,Dark Academia
+Bookstore Girl,Vintage
+Bookstore Girl,Warmcore
+Bookstore Girl,Autumn
+Bosozoku,Yanki
+Bosozoku,Sukeban
 Boujee,Baddie
 Boujee,Casino
 Boujee,Chic Modernist
@@ -381,6 +464,11 @@ Breakcore,Old Web
 Breakcore,Gen X Soft Club
 Breakcore,Y2K
 Breakcore,Metalheart
+Britpop,Alternative
+Britpop,Grunge
+Britpop,New Wave
+Britpop,Pop
+Britpop,Rock
 Brocore,Americana
 Brocore,Athlete
 Brocore,Bastardcore
@@ -397,24 +485,39 @@ Brocore,Vacation Dadcore
 Bronzepunk,Cyberpunk
 Bronzepunk,Sandalpunk
 Bronzepunk,Steampunk
+Bubble Bujo,Sparklecore
+Bubble Bujo,Animecore
+Bubble Bujo,Cyberdelic
+Bubble Bujo,Hyperpop
+Bubble Bujo,Kawaii
+Bubble Bujo,Kidcore
+Bubble Bujo,Lovecore
+Bubble Bujo,Sanriocore
+Bubble Bujo,Scrapbook
 Bubble Goth,Goth
 Bubble Goth,Soft Macabre
 Bubble Goth,Pastel
 Bubble Goth,Pastel Goth
 Bubblegum Bitch,Baddie
 Bubblegum Bitch,Barbiecore
-Bubblegum Bitch,Cherry Emoji Twitter
 Bubblegum Bitch,Femme Fatale
 Bubblegum Bitch,Sparklecore
-Bubblegum Baddie,Baddie
-Bubblegum Baddie,Bubble Goth
-Bubblegum Baddie,Bubblegum Bitch
-Bubblegum Baddie,Kawaii
-Bubblegum Baddie,Pastel
-Bubblegum Baddie,Pastel Academia
-Bubblegum Baddie,Witchcore
-Bubblegum Baddie,Witchy Academia
-Bubblegum Baddie,Yume Kawaii
+Bubblegum Witch,Baddie
+Bubblegum Witch,Bubble Goth
+Bubblegum Witch,Bubblegum Bitch
+Bubblegum Witch,Kawaii
+Bubblegum Witch,Pastel
+Bubblegum Witch,Pastel Academia
+Bubblegum Witch,Witchcore
+Bubblegum Witch,Witchy Academia
+Bubblegum Witch,Yume Kawaii
+Cheiron Crush,Art Hoe
+Cheiron Crush,Frutiger Aero
+Cheiron Crush,McBling
+Cheiron Crush,Poolcore
+Cheiron Crush,VSCO
+Cheiron Crush,Y2K
+Cheiron Crush,Surf Crush
 Cabincore,Adventurecore
 Cabincore,Campcore
 Cabincore,Comfy/Cozy
@@ -455,24 +558,13 @@ Campcore,Adventurecore
 Campcore,Hikecore
 Campcore,Comfy/Cozy
 Campcore,Naturecore
-Campcore,Natural Philosophy
+Campcore,Green Academia
 Campcore,Earthcore
 Candycore,Decora
 Candycore,Foodie
 Candycore,Kidcore
 Candycore,Lolita
 Candycore,Rainbowcore
-Carcore,Animecore
-Carcore,Art Deco
-Carcore,Atompunk
-Carcore,Boujee
-Carcore,Cyberpunk
-Carcore,Decopunk
-Carcore,Glowwave
-Carcore,Hi-NRG
-Carcore,Synthwave
-Carcore,Vintage
-Carcore,Y2K
 Cargopunk,Post-Apocalyptic
 Cargopunk,Soft Apocalypse
 Cargopunk,Techwear
@@ -495,20 +587,21 @@ Cartooncore,Nostalgiacore
 Cartooncore,Vaporwave
 Cartooncore,Vintage
 Cartooncore,Y2K
-Casinocore,Boujee
-Casinocore,Cartelcore
-Casinocore,Drugcore
-Casinocore,Lounge
-Casinocore,McBling
-Casinocore,Stripcore
-Casinocore,Synthwave
-Casinocore,Vacation Dadcore
-Casinocore,Vintage
+Casino,Boujee
+Casino,Cartelcore
+Casino,Drugcore
+Casino,Lounge
+Casino,McBling
+Casino,Stripcore
+Casino,Synthwave
+Casino,Vacation Dadcore
+Casino,Vintage
 Cassette Futurism,Retro-Futurism
 Cassette Futurism,Atompunk
 Cassette Futurism,Dieselpunk
 Cassette Futurism,Cyberpunk
 Cassette Futurism,Synthwave
+Celtic,Selkiecore
 Changelingcore,Cryptid Academia
 Changelingcore,Cryptidcore
 Changelingcore,Ethereal
@@ -516,16 +609,14 @@ Changelingcore,Fairycore
 Changelingcore,Goblincore
 Changelingcore,Mosscore
 Changelingcore,Naturecore
+Chaotic Academia,Dark Academia
+Chaotic Academia,Light Academia
 Chav,Baddie
 Chav,Cagole
 Chav,McBling
 Chav,Scrapper
 Chav,Racaille
 Chav,Bombacore
-Cherry Emoji Twitter,Baddie
-Cherry Emoji Twitter,Bubblegum Bitch
-Cherry Emoji Twitter,Femme Fatale
-Cherry Emoji Twitter,Red
 Chic Modernist,Boujee
 Chic Modernist,Corporate
 Chic Modernist,Dark Academia
@@ -548,9 +639,9 @@ Christian Girl Autumn,Autumn
 Christian Girl Autumn,Karencore
 Christian Girl Autumn,VSCO
 Christmas,Winter
-Chaotic Academia,Bibliopunk
-Chaotic Academia,Dark Academia
-Chaotic Academia,Light Academia
+Fanfare,Clowncore
+Fanfare,Glowwave
+Fanfare,Wormcore
 City Pop,After Hours
 City Pop,Animecore
 City Pop,Lo-Fi
@@ -571,13 +662,13 @@ Classicism,Art Academia
 Classicism,Classic Academia
 Classicism,Hellenic
 Classicism,White
-High Cleancore,Icepunk
-High Cleancore,Medicalcore
-High Cleancore,Poolcore
-High Cleancore,Vacation Dadcore
-High Cleancore,Vaporwave
-Low Cleancore,Kidcore
-Low Cleancore,Sanriocore
+Cleancore,Icepunk
+Cleancore,Medicalcore
+Cleancore,Poolcore
+Cleancore,Vacation Dadcore
+Cleancore,Vaporwave
+Cleancore,Kidcore
+Cleancore,Sanriocore
 Clockpunk,Cyberpunk
 Clockpunk,Steampunk
 Clowncore,Juggalo
@@ -594,18 +685,34 @@ Club,Glowwave
 Club,Raver
 Club,Stripcore
 Club,Urbancore
-Coffee House,After Hours
-Coffee House,Comfy/Cozy
-Coffee House,Dark Academia
-Coffee House,Foodie
-Coffee House,Light Academia
-Coffee House,Lo-Fi
-Coffee House,Milk
-Coffee House,Indie
+Coffee House/Cafe,After Hours
+Coffee House/Cafe,Comfy/Cozy
+Coffee House/Cafe,Dark Academia
+Coffee House/Cafe,Foodie
+Coffee House/Cafe,Light Academia
+Coffee House/Cafe,Lo-Fi
+Coffee House/Cafe,Milk
+Coffee House/Cafe,Indie
+Coffinwood,Americana
+Coffinwood,Animecore
+Coffinwood,Cryptidcore
+Coffinwood,Dark Naturalism
+Coffinwood,Greaser
+Coffinwood,Halloween
+Coffinwood,Hauntology
+Coffinwood,Horror
+Coffinwood,Hustlewave
+Coffinwood,Liminal Space
+Coffinwood,Nostalgiacore
+Coffinwood,Rock
+Coffinwood,Southern Gothic
+Coffinwood,Traumacore
+Coffinwood,Vintage
+Coffinwood,Western
+Coffinwood,Cryptkeepercore
 Comfy/Cozy,Autumn
 Comfy/Cozy,Coffee House/Cafe
 Comfy/Cozy,Cabincore
-Comfy/Cozy,Cloudcore
 Comfy/Cozy,Dazecore
 Comfy/Cozy,Dreamy
 Comfy/Cozy,Havencore
@@ -641,7 +748,6 @@ Corporate Memphis,Minimalism
 Corporate Memphis,Frutiger Aero
 Cottagecore,Art Hoe
 Cottagecore,Bloomcore
-Cottagecore,Butterfly
 Cottagecore,Cabincore
 Cottagecore,Cottagegore
 Cottagecore,Country
@@ -651,14 +757,13 @@ Cottagecore,Ethereal
 Cottagecore,Fairy Academia
 Cottagecore,Fairycore
 Cottagecore,Forestpunk
-Cottagecore,Fruity
 Cottagecore,Grandparentcore
 Cottagecore,Hellenic
 Cottagecore,Hippie
 Cottagecore,Honeycore
 Cottagecore,Mori Kei
 Cottagecore,Naturecore
-Cottagecore,Natural Philosophy
+Cottagecore,Green Academia
 Cottagecore,Nautical
 Cottagecore,Plant Mom
 Cottagecore,Prairiecore
@@ -675,6 +780,7 @@ Cottagecore,Woodland Goth
 Cottagegore,Coffinwood
 Cottagegore,Cottagecore
 Cottagegore,Crowcore
+Cottagegore,Cryptkeepercore
 Cottagegore,Dark Academia
 Cottagegore,Dark Fantasy
 Cottagegore,Forestpunk
@@ -686,11 +792,14 @@ Cottagegore,Witchcore
 Cottagegore,Woodland Goth
 Country,Americana
 Country,Cottagecore
+Country,Equestrian
+Country,Girl-Next-Door
 Country,Southern Gothic
 Country,Western
 Crackhead,Bastardcore
 Crackhead,Chaotic Academia
 Crackhead,Drugcore
+Crackhead,Feralcore
 Crackhead,Goblincore
 Crackhead,Grunge
 Crackhead,Raver
@@ -716,6 +825,7 @@ Crowcore,Naturecore
 Crowcore,Pirate
 Crowcore,Pixiecore
 Crowcore,Vulture Culture
+Crowcore,Cryptkeepercore
 Crowcore,White
 Crustpunk,Punk
 Cryptid Academia,Adventurecore
@@ -744,6 +854,21 @@ Cryptidcore,Deathrock
 Cryptidcore,Goth
 Cryptidcore,Trad Goth
 Cryptidcore,Analog Horror
+Cryptkeepercore,Craftcore
+Cryptkeepercore,Coffinwood
+Cryptkeepercore,Cabincore
+Cryptkeepercore,Cottagegore
+Cryptkeepercore,Crowcore
+Cryptkeepercore,Fairycore
+Cryptkeepercore,Forestpunk
+Cryptkeepercore,Dark Academia
+Cryptkeepercore,Batcore
+Cryptkeepercore,Plant Mom
+Cryptkeepercore,Ravencore
+Cryptkeepercore,Vintage
+Cryptkeepercore,Witchcore
+Cryptkeepercore,Androgynous
+Cryptkeepercore,Woodland Goth
 Cubism,Art Academia
 Cubism,Avant-garde
 Cubism,Modernism
@@ -753,6 +878,14 @@ Cuddle Party,Kidcore
 Cuddle Party,Glowwave
 Cuddle Party,Party Animal
 Cuddle Party,Skater
+Cult Party Kei,Pale Grunge
+Cult Party Kei,Vintage
+Cult Party Kei,Fairy Kei
+Cult Party Kei,Dolly Kei
+Cult Party Kei,Morute
+Cult Party Kei,Mori Kei
+Cult Party Kei,Traumacore
+Cult Party Kei,Delicate Sweet
 Cultcore,SacriCore
 Cultcore,Traumacore
 Cultcore,Weirdcore
@@ -761,14 +894,6 @@ Cultcore,Devilcore
 Cultcore,Naturecore
 Cultcore,Liminal Space
 Cultcore,Witchcore
-Cult Party Kei,Pale
-Cult Party Kei,Vintage
-Cult Party Kei,Fairy Kei
-Cult Party Kei,Dolly Kei
-Cult Party Kei,Morute
-Cult Party Kei,Mori Kei
-Cult Party Kei,Traumacore
-Cult Party Kei,Delicate Sweet
 Cyber Minimalism,Corporate Memphis
 Cyber Minimalism,Cyberprep
 Cyber Minimalism,Frutiger Aero
@@ -813,6 +938,7 @@ Cybergoth,Post-Apocalyptic
 Cybergoth,Techwear
 Cybergrunge,Cyberpunk
 Cybergrunge,Grunge
+CyberneticPunk,Cyberpunk
 Cyberpop,Atompunk
 Cyberpop,Club Kids
 Cyberpop,Cybergoth
@@ -827,6 +953,7 @@ Cyberprep,Frutiger Aero
 Cyberprep,Preppy
 Cyberprep,Cyber Minimalism
 Cyberprep,Hexatron
+Cyberpunk,Neo-Tokyo
 Cyberpunk,Abstract Tech
 Cyberpunk,Afrofuturism
 Cyberpunk,Animecore
@@ -834,7 +961,6 @@ Cyberpunk,Atompunk
 Cyberpunk,Biopunk
 Cyberpunk,Black
 Cyberpunk,Bronzepunk
-Cyberpunk,Carcore
 Cyberpunk,Clockpunk
 Cyberpunk,Cyberdelic
 Cyberpunk,Cybergoth
@@ -846,7 +972,6 @@ Cyberpunk,Futurism
 Cyberpunk,Glowwave
 Cyberpunk,Hustlewave
 Cyberpunk,Lunarpunk
-Cyberpunk,Milleniwave
 Cyberpunk,Old Web
 Cyberpunk,Post-Apocalyptic
 Cyberpunk,Punk
@@ -863,18 +988,9 @@ Cyberpunk,New Romantic
 Danish Pastel,Cottagecore
 Danish Pastel,Plant Mom
 Danish Pastel,VSCO
-Dark Paradise,After Hours
-Dark Paradise,Dark Academia
-Dark Paradise,Darkest Academia
-Dark Paradise,Dark Naturalism
-Dark Paradise,Gloomcore
-Dark Paradise,Indie
-Dark Paradise,Liminal Space
-Dark Paradise,Lo-Fi
-Dark Paradise,Rainy Day
-Dark Paradise,Wanderlust
-Dark Paradise,Northerness
-Dark Paradise,Coffinwood
+DarkErrorcore,Gorecore
+DarkErrorcore,Gothcore
+DarkErrorcore,Mind Murder
 Dark Academia,Beatnik
 Dark Academia,Post-Punk
 Dark Academia,Indie
@@ -891,7 +1007,7 @@ Dark Academia,Fairy Academia
 Dark Academia,Gothic
 Dark Academia,Light Academia
 Dark Academia,Musical Academia
-Dark Academia,Natural Philosophy
+Dark Academia,Green Academia
 Dark Academia,Pastel Academia
 Dark Academia,Romantic Academia
 Dark Academia,Studyblr
@@ -901,12 +1017,28 @@ Dark Academia,Victorian
 Dark Academia,Writer Academia
 Dark Academia,Alternative
 Dark Academia,Androgynous
+Dark Academia,Neon Academia
+Dark Academia,Cryptkeepercore
+Dark Fantasy,Fantasy
+Dark Fantasy,Fairy Tale
+Dark Fantasy,Dark Academia
+Dark Fantasy,Darkest Academia
+Dark Fantasy,Goth
+Dark Fantasy,Romantic Goth
+Dark Fantasy,Dragoncore
+Dark Fantasy,Witchcore
+Dark Fantasy,Pirate
+Dark Fantasy,Vampire
+Dark Fantasy,Selkiecore
+Dark Fantasy,Woodland Goth
+Dark Fantasy,Mythpunk
+Dark Jock,Dark Academia
 Dark Naturalism,Black
 Dark Naturalism,Dark Academia
 Dark Naturalism,Dark Paradise
 Dark Naturalism,Ethereal
 Dark Naturalism,Gloomcore
-Dark Naturalism,Natural Philosophy
+Dark Naturalism,Green Academia
 Dark Naturalism,Naturecore
 Dark Naturalism,Cabincore
 Dark Naturalism,Coffinwood
@@ -918,10 +1050,26 @@ Dark Nautical,Pirate
 Dark Nautical,Selkiecore
 Dark Nautical,Witchcore
 Dark Nautical,Reefwave
-Dark nymphet,Nymphet
-Dark nymphet,Gothic Lolita
-Dark nymphet,Kinderwhore
-Dark nymphet,Dethereal
+Dark Nymphet,Nymphet
+Dark Nymphet,Gothic Lolita
+Dark Nymphet,Kinderwhore
+Dark Nymphet,Dethereal
+Dark Paradise,After Hours
+Dark Paradise,Dark Academia
+Dark Paradise,Darkest Academia
+Dark Paradise,Dark Naturalism
+Dark Paradise,Gloomcore
+Dark Paradise,Indie
+Dark Paradise,Liminal Space
+Dark Paradise,Lo-Fi
+Dark Paradise,Rainy Day
+Dark Paradise,Wanderlust
+Dark Paradise,Northerness
+Dark Paradise,Coffinwood
+Darkcore,After Hours
+Darkcore,Liminal Space
+Darkcore,Traumacore
+Darkcore,Dark Academia
 Darkest Academia,Dark Academia
 Darkest Academia,Dark Paradise
 Darkest Academia,Goth
@@ -929,8 +1077,13 @@ Darkest Academia,Studyblr
 Darkest Academia,Studyplace
 Darkest Academia,Victorian
 Darkest Academia,Post-Punk
+Daydreampunk,Common White Girl
+Daydreampunk,Corporate Punk
+Daydreampunk,Holosexual
+Daydreampunk,Pastel
+Daydreampunk,Spacecore
+Daydreampunk,Unicorncore
 Dazecore,After Hours
-Dazecore,Cloudcore
 Dazecore,Comfy/Cozy
 Dazecore,Cuddle Party
 Dazecore,Dreamy
@@ -941,6 +1094,26 @@ Dazecore,Minimalism
 Dazecore,Ocean Grunge
 Dazecore,Spacecore
 Dazecore,Urbancore
+De Stijl,Art Academia
+De Stijl,Black
+De Stijl,Blue
+De Stijl,Red
+De Stijl,White
+De Stijl,Yellow
+Deathcore,Emo
+Deathcore,Metal
+Deathrock,Goth
+Deathrock,Punk
+Deathrock,Trad Goth
+Deathrock,New Romantic
+Deathrock,Woodland Goth
+Deathrock,Glam Rock
+Deathrock,Cryptidcore
+Deathrock,Suburban Gothic
+Decopunk,Art Deco
+Decopunk,Atompunk
+Decopunk,Dieselpunk
+Decopunk,Steampunk
 Decora,Cyberpop
 Decora,Fairy Kei
 Decora,Kidcore
@@ -948,10 +1121,17 @@ Decora,Pop Kei
 Decora,Oshare Kei
 Decora,Pastel
 Decora,Rainbowcore
-Decopunk,Art Deco
-Decopunk,Atompunk
-Decopunk,Dieselpunk
-Decopunk,Steampunk
+Delicate Sweet,Angelcore
+Delicate Sweet,Cult Party Kei
+Delicate Sweet,Yume Kawaii
+Delicate Sweet,Babycore
+Delicate Sweet,Grandparentcore
+Delicate Sweet,Larme Kei
+Delicate Sweet,Softie
+Delicate Sweet,Classic Lolita
+Delicate Sweet,Mori Kei
+Delicate Sweet,Ethereal
+Delicate Sweet,Romantic Academia
 Desertwave,Adventurecore
 Desertwave,Americana
 Desertwave,Cryptid Academia
@@ -959,12 +1139,6 @@ Desertwave,Heatwave
 Desertwave,Prairiecore
 Desertwave,Synthwave
 Desertwave,Western
-De Stijl,Art Academia
-De Stijl,Black
-De Stijl,Blue
-De Stijl,Red
-De Stijl,White
-De Stijl,Yellow
 Dethereal,Ethereal
 Dethereal,Gothic Lolita
 Dethereal,Dark Naturalism
@@ -982,17 +1156,26 @@ Lustcore,Femme Fatale
 Lustcore,Lovecore
 Lustcore,Slutcore
 Lustcore,Dionysism
-Diner,Americana
-Diner,Foodie
-Diner,Glowwave
-Diner,Vintage
 Dieselpunk,Atompunk
 Dieselpunk,Decopunk
 Dieselpunk,Steampunk
 Dieselpunk,Steelpunk
-Dolly  Kei,Cult Party Kei
-Dolly  Kei,Mori Kei
-Dolly  Kei,Cottagecore
+Diner,Americana
+Diner,Foodie
+Diner,Glowwave
+Diner,Vintage
+Dionysism,Classicism
+Dionysism,Club
+Dionysism,Cuddle Party
+Dionysism,Devilcore
+Dionysism,Hellenic
+Dionysism,Hermaphroditus
+Dionysism,Lovecore
+Dionysism,McBling
+Dionysism,Party Animal
+Dolly Kei,Cult Party Kei
+Dolly Kei,Mori Kei
+Dolly Kei,Cottagecore
 Dracopunk,Dragoncore
 Dracopunk,Cottagegore
 Dracopunk,Cottagecore
@@ -1006,9 +1189,20 @@ Dragoncore,Otherkin
 Dragoncore,Pearly
 Dragoncore,Ravencore
 Dragoncore,Witchcore
+Drainer,Animecore
+Drainer,E-Girl
+Drainer,E-Boy
+Drainer,Geek
+Drainer,Hyperpop
+Drainer,Mallgoth
+Drainer,Raver
+Drainer,Sadpeople
+Drainer,Scene
+Drainer,Y2K
+Dreamcore,Weirdcore
+Dreamcore,Dreamy
 Dreamy,After Hours
 Dreamy,Angelcore
-Dreamy,Cloudcore
 Dreamy,Comfy/Cozy
 Dreamy,Cuddle Party
 Dreamy,Dazecore
@@ -1055,6 +1249,10 @@ Dual Kawaii,Traumacore
 Dual Kawaii,Yume Kawaii
 Dual Kawaii,Yami Kawaii
 Dual Kawaii,Angelcore
+Duckcore,Naturecore
+Duckcore,Pastel
+Duckcore,Kawaii
+Duckcore,Frogcore
 Dullcore,After Hours
 Dullcore,Dark Academia
 Dullcore,Dark Paradise
@@ -1093,11 +1291,21 @@ E-Girl,Sadpeople
 E-Girl,Scene
 E-Girl,Surf Crush
 E-Girl,VSCO
+Earthcore,Adventurecore
+Earthcore,Bloomcore
+Earthcore,Bohemian
+Earthcore,Cottagecore
+Earthcore,Hippie
+Earthcore,Honeycore
+Earthcore,Naturecore
+Earthcore,Green Academia
+Earthcore,Plant Mom
+Earthcore,Solarpunk
+Earthcore,VSCO
 ElectroPop 08,Frutiger Aero
 ElectroPop 08,McBling
-ElectroPop 08,Milleniwave
 ElectroPop 08,Poolcore
-ElectroPop 08,Tikicore
+ElectroPop 08,Tiki
 ElectroPop 08,VSCO
 ElectroPop 08,Y2K
 ElectroPop 08,Superflat Pop
@@ -1113,6 +1321,11 @@ Emo,Midwest Emo
 Emo,Nu-Metal
 Emo,Punk
 Emo,Scene
+English Major,Nerd
+English Major,Writer Academia
+English Major,Dark Academia
+English Major,Light Academia
+Equestrian,Country
 Equestrian,Western
 Erokawa,Animecore
 Erokawa,Babygirl
@@ -1137,10 +1350,18 @@ Ethereal,Dreamy
 Ethereal,Pink Princess
 Ethereal,Mori Kei
 Ethereal,Delicate Sweet
+Europunk,Cottagecore
+Europunk,Royalcore
+Europunk,Steampunk
+Europunk,Fantasy
+Europunk,Fairy Academia
+Europunk,Bloomcore
+Europunk,Romanticism
+Europunk,Romantic Academia
+Europunk,Shabby Chic
 Expressionism,Art Academia
 Expressionism,Avant-garde
 Fairy Academia,Bloomcore
-Fairy Academia,Butterfly
 Fairy Academia,Cottagecore
 Fairy Academia,Dark Academia
 Fairy Academia,Darkest Academia
@@ -1152,6 +1373,45 @@ Fairy Academia,Studyblr
 Fairy Academia,Studyplace
 Fairy Academia,Victorian
 Fairy Academia,Vintage
+Fairy Grunge,Fairycore
+Fairy Grunge,Fairy Academia
+Fairy Grunge,Goblincore
+Fairy Grunge,Grunge
+Fairy Grunge,Kinderwhore
+Fairy Grunge,Pixiecore
+Fairy Grunge,Woodland Goth
+Fairy Grunge,Dark Paradise
+Fairy Grunge,Hot Topic
+Fairy Grunge,Mythpunk
+Fairy Kei,Pastel
+Fairy Kei,Vintage
+Fairy Kei,Yume Kawaii
+Fairy Kei,Decora
+Fairy Kei,Cult Party Kei
+Fairy Kei,Unicorncore
+Fairy Tale,Adventurecore
+Fairy Tale,Cottagecore
+Fairy Tale,Dark Fantasy
+Fairy Tale,Dragoncore
+Fairy Tale,Ethereal
+Fairy Tale,Fantasy
+Fairy Tale,Fairycore
+Fairy Tale,Fairy Academia
+Fairy Tale,Hermaphroditus
+Fairy Tale,Medieval Fantasy
+Fairy Tale,Naturecore
+Fairy Tale,Princesscore
+Fairy Tale,Woodland Goth
+Fairy Grunge,Fairycore
+Fairy Grunge,Fairy Academia
+Fairy Grunge,Goblincore
+Fairy Grunge,Grunge
+Fairy Grunge,Kinderwhore
+Fairy Grunge,Pixiecore
+Fairy Grunge,Woodland Goth
+Fairy Grunge,Dark Paradise
+Fairy Grunge,Hot Topic
+Fairy Grunge,Mythpunk
 Fairycore,Mythpunk
 Fairycore,Fairy Tale
 Fairycore,Art Nouveau
@@ -1174,28 +1434,10 @@ Fairycore,Softie
 Fairycore,Sparklecore
 Fairycore,Woodland Goth
 Fairycore,Romantic Academia
+Fairycore,Cryptkeepercore
 Fairycore,Ballet Academia
 Fairycore,Fairy Grunge
 Fairycore,Celtic
-Fairy Kei,Pastel
-Fairy Kei,Vintage
-Fairy Kei,Yume Kawaii
-Fairy Kei,Decora
-Fairy Kei,Cult Party Kei
-Fairy Kei,Unicorncore
-Fairy Tale,Adventurecore
-Fairy Tale,Cottagecore
-Fairy Tale,Dark Fantasy
-Fairy Tale,Dragoncore
-Fairy Tale,Ethereal
-Fairy Tale,Fantasy
-Fairy Tale,Fairycore
-Fairy Tale,Fairy Academia
-Fairy Tale,Hermaphroditus
-Fairy Tale,Medieval Fantasy
-Fairy Tale,Naturecore
-Fairy Tale,Princesscore
-Fairy Tale,Woodland Goth
 Fanfare,Clowncore
 Fanfare,Glowwave
 Fanfare,Wormcore
@@ -1233,15 +1475,24 @@ Fawncore,Cottagecore
 Fawncore,Mori Kei
 Fawncore,Naturecore
 Fawncore,Pastel
+Femboy,Kawaii
+Femboy,Maidcore
+Femboy,Pastel
+Femboy,Queercore
+Femboy,Softboy
 Femme Fatale,Baddie
 Femme Fatale,Boujee
 Femme Fatale,Bubblegum Bitch
-Femme Fatale,Cherry Emoji Twitter
 Femme Fatale,Devilcore
 Femme Fatale,Pin-up
 Femme Fatale,Italian Mafia
 Femme Fatale,Old Hollywood
 Femme Fatale,Vintage
+Feralcore,Bastardcore
+Feralcore,Crackhead
+Feralcore,Cryptidcore
+Feralcore,Surreal Memer
+Feralcore,Weirdcore
 Film Noir,After Hours
 Film Noir,Femme Fatale
 Film Noir,Italian Mafia
@@ -1254,6 +1505,34 @@ Flapper,Electro Swing
 Flapper,Modernism
 Flapper,Old Hollywood
 Flapper,Vintage
+Bloomcore,Cottagecore
+Bloomcore,Dreamy
+Bloomcore,Earthcore
+Bloomcore,Fairy Academia
+Bloomcore,Fairycore
+Bloomcore,Fawncore
+Bloomcore,Golden Hour
+Bloomcore,Green Academia
+Bloomcore,Honeycore
+Bloomcore,Lovecore
+Bloomcore,Mosscore
+Bloomcore,Naturecore
+Bloomcore,Romantic Academia
+Bloomcore,Rusticcore
+Bloomcore,Spring
+Bloomcore,Virgo's Tears
+Bloomcore,Warmcore
+Bloomcore,Witchcore
+Fluowave,Glowwave
+Fluowave,Raver
+Fluowave,Decora
+Folk Punk,Punk
+Folk Punk,Hippie
+Folk Punk,Crustpunk
+Folk Punk,Punk
+Folk Punk,Forestpunk
+Folk Punk,Hipster
+Folk Punk,Goblincore
 Foodie,Animecore
 Foodie,Candycore
 Foodie,Coffee House/Cafe
@@ -1267,7 +1546,6 @@ Foodie,Peach
 Foodie,Rainbowcore
 Foodie,Tropical
 Foodie,Vacation Dadcore
-Foodie,Cherry Emoji Twitter
 Forestpunk,Cabincore
 Forestpunk,Cottagecore
 Forestpunk,Cryptidcore
@@ -1275,16 +1553,14 @@ Forestpunk,Earthcore
 Forestpunk,Mori Kei
 Forestpunk,Mosscore
 Forestpunk,Naturecore
-Forestpunk,Natural Philosophy
+Forestpunk,Green Academia
 Forestpunk,Solarpunk
 French Girl,Chic Modernist
 French Girl,Indie
-Fruity,Cottagecore
-Fruity,Peach
-Fruity,Honeycore
-Fruity,Tropical
-Fruity,Jamcore
-Fruity,Bloomcore
+Frogcore,Goblincore
+Frogcore,Naturecore
+Frogcore,Rainy Day
+Frogcore,Soggy
 Frutiger Aero,Abstract Tech
 Frutiger Aero,Corporate
 Frutiger Aero,Corporate Memphis
@@ -1301,6 +1577,8 @@ Frutiger Aero,Superflat Pop
 Frutiger Aero,Surf Crush
 Frutiger Aero,Technozen
 Frutiger Aero,Y2K
+Funky Seasons,Frutiger Aero
+Funky Seasons,Superflat Pop
 Furry,Kidcore
 Furry,Juggalo
 Futago,Lolita
@@ -1314,7 +1592,7 @@ Futurism,Vorticism
 Gadgetpunk,Animecore
 Gadgetpunk,Cartooncore
 Gadgetpunk,Cyberpunk
-Gadgetpunk,Junkpunk
+Gadgetpunk,Salvagepunk
 Gadgetpunk,Science Academia
 Gadgetpunk,Steampunk
 Gadgetpunk,Tinkercore
@@ -1325,9 +1603,12 @@ Game Night,Kidcore
 Game Night,Nerd
 Game Night,Nostalgiacore
 Game Night,Party Animal
+Kawaii Gamer,Kawaii
+Kawaii Gamer,Lo-Fi
 Gamercore,Kawaii Gamer
 Gamercore,Nintencore
 Gamine,Androgynous
+Gamine,Flapper
 Geek,Animecore
 Geek,Cartooncore
 Geek,Fantasy
@@ -1364,7 +1645,6 @@ Girl-Next-Door,2014-era tumblr
 Girl-Next-Door,Princesscore
 Glam Girl,Baddie
 Glam Girl,Boujee
-Glam Girl,Cherry Emoji Twitter
 Glam Girl,Chic Modernist
 Glam Girl,Femme Fatale
 Glam Girl,Pearly
@@ -1378,16 +1658,13 @@ Glam Rock,Punk
 Glam Rock,New Romantic
 Glam Rock,Deathrock
 Glam Rock,Trad Goth
-Glitch,Cuddle Party
-Glitch,Glowwave
-Glitch,Hatecore
-Glitch,Lo-Fi
-Glitch,Raver
-Glitch,Synthwave
-Glitch,Vaporwave
-Glitch,Vintage
-Glitch,Y2K
+Glitch,Animecore
+Glitch,Hyperpop
 Glitch,Mind Murder
+Glitch,Scene
+Glitch,Synthwave
+Glitch,Tenwave
+Glitch,Vaporwave
 Gloomcore,Cryptidcore
 Gloomcore,Dark Naturalism
 Gloomcore,Dullcore
@@ -1406,13 +1683,11 @@ Glowwave,Cybergoth
 Glowwave,Cyberprep
 Glowwave,Cyberpunk
 Glowwave,Dreamy
-Glowwave,Glitch
 Glowwave,Heatwave
 Glowwave,Hippie
 Glowwave,Kidcore
 Glowwave,Lo-Fi
 Glowwave,Poolcore
-Glowwave,Milleniwave
 Glowwave,Old Web
 Glowwave,Party Animal
 Glowwave,Psychedelica
@@ -1420,6 +1695,11 @@ Glowwave,Raver
 Glowwave,Synthwave
 Glowwave,Vaporwave
 Glowwave,Vintage
+Goblin Academia,Cottagecore
+Goblin Academia,Dark Academia
+Goblin Academia,Goblincore
+Goblin Academia,Fairy Academia
+Goblin Academia,Light Academia
 Goblincore,Adventurecore
 Goblincore,Cottagecore
 Goblincore,Crackhead
@@ -1428,20 +1708,14 @@ Goblincore,Dragoncore
 Goblincore,Earthcore
 Goblincore,Miniaturecore
 Goblincore,Mushroomcore
-Goblincore,Natural Philosophy
+Goblincore,Green Academia
 Goblincore,Soggy
 Goblincore,Vulture Culture
 Goblincore,Witchcore
-Goblin Academia,Cottagecore
-Goblin Academia,Dark Academia
-Goblin Academia,Goblincore
-Goblin Academia,Fairy Academia
-Goblin Academia,Light Academia
 Golden Age of Detective Fiction,Old Money
 Golden Age of Detective Fiction,Dark Academia
 Golden Age of Detective Fiction,Gothic
 Golden Hour,After Hours
-Golden Hour,Cloudcore
 Golden Hour,Dazecore
 Golden Hour,Dreamy
 Golden Hour,Lo-Fi
@@ -1489,11 +1763,28 @@ Gothic,Goth
 Gothic,Horror
 Gothic,Regional Gothic
 Gothic,Vampire
+Gothic Lolita,Woodland Goth
+Gothic Lolita,Victorian Goth
+Gothic Lolita,Romantic Goth
+Gothic Lolita,Goth
+Gothic Lolita,Lolita
+Gothic Lolita,Visual Kei
+Gothic Lolita,Victorian
+Gothic Lolita,Trad Goth
+Gothic Lolita,Classic Lolita
+Gothic Lolita,Sweet Lolita
+Gothic Lolita,Androgynous
 Grandmillenial,Preppy
 Grandmacore,Bloomcore
 Grandmacore,Cottagecore
 Grandmacore,Craftcore
 Grandmacore,Foodie
+Greaser,Americana
+Greaser,Flapper
+Greaser,Old Hollywood
+Greaser,Punk
+Greaser,Scrapper
+Greaser,Vintage
 Green Academia,Campcore
 Green Academia,Dark Academia
 Green Academia,Earthcore
@@ -1502,6 +1793,24 @@ Green Academia,Light Academia
 Green Academia,Naturecore
 Green Academia,Plant Mom
 Green Academia,Vulture Culture
+Grey,Dullcore
+Grey,Gloomcore
+Grey,Black
+Grey,White
+Groundcore,Naturecore
+Groundcore,Adventurecore
+Groundcore,Mosscore
+Groundcore,Soggy
+Groundcore,Junglecore
+Groundcore,Summer
+Groundcore,Spring
+Groundcore,Golden Hour
+Groundcore,Forestpunk
+Groundcore,Bloomcore
+Groundcore,Earthcore
+Groundcore,Salvagepunk
+Groundcore,Miniaturecore
+Groundcore,Tinycore
 Grunge,Alternative
 Grunge,Bastardcore
 Grunge,Cybergrunge
@@ -1513,7 +1822,7 @@ Grunge,Kinderwhore
 Grunge,Metal
 Grunge,Nu-Metal
 Grunge,Ocean Grunge
-Grunge,Pale
+Grunge,Pale Grunge
 Grunge,Punk
 Grunge,Rusticcore
 Grunge,Scrapper
@@ -1539,23 +1848,17 @@ Gyaru,Larme Kei
 Gyaru,Schoolgirl Lifestyle
 Gyaruo,Chav
 Gyaruo,Racaille
-Hallyu,Androgynous
-Hallyu,New Romantic
-Hallyu,Synthwave
-Hallyu,Babygirl
-Hallyu,Softie
-Hallyu,Stans
-Hallyu,Ulzzang
-Hauntology,Liminal Space
-Hauntology,Lo-Fi
-Hauntology,Nostalgiacore
-Hauntology,Vaporwave
 Halloween,Gurokawa
 Halloween,Horror
 Halloween,Kidcore
 Halloween,Vampire
 Halloween,Witchcore
-Happycore,Caninecore
+Hallyu,Androgynous
+Hallyu,New Romantic
+Hallyu,Synthwave
+Hallyu,Babygirl
+Hallyu,Softie
+Hallyu,Ulzzang
 Happycore,Craftcore
 Happycore,Cuddle Party
 Happycore,Comfy/Cozy
@@ -1569,21 +1872,27 @@ Happycore,Warmcore
 Happycore,Kawaii
 Hatecore,Bastardcore
 Hatecore,Devilcore
-Hatecore,Glitch
 Hatecore,Gorecore
 Hatecore,Lovecore
 Hatecore,Medicalcore
 Hatecore,Punk
 Hatecore,Traumacore
 Hatecore,Trashcore
+Hauntology,Liminal Space
+Hauntology,Lo-Fi
+Hauntology,Nostalgiacore
+Hauntology,Vaporwave
 Haussmann Paris,Vintage Parisian
+Havencore,Campcore
+Havencore,Comfy/Cozy
+Havencore,Traumacore
 Health Goth,Black
 Health Goth,Goth
 Health Goth,Minimalism
 Health Goth,White
 Heatwave,Desertwave
 Heatwave,Glowwave
-Heatwave,Natural Philosophy
+Heatwave,Green Academia
 Heatwave,Naturecore
 Heatwave,Red
 Heatwave,Summer
@@ -1603,7 +1912,6 @@ Hellenic,Angelcore
 Hellenic,Fashwave
 Hermaphroditus,Angelcore
 Hermaphroditus,Classicism
-Hermaphroditus,Cloudcore
 Hermaphroditus,Dreamy
 Hermaphroditus,Ethereal
 Hermaphroditus,Fairy Tale
@@ -1612,6 +1920,11 @@ Hermaphroditus,Hellenic
 Hermaphroditus,New Age
 Hermaphroditus,Nymphet
 Hermaphroditus,Softie
+Hexatron,Y2K
+Hexatron,Metalheart
+Hexatron,Cyberpunk
+Hexatron,Frutiger Aero
+Hexatron,Abstract Tech
 High School Dream,Americana
 High School Dream,Brocore
 High School Dream,Drugcore
@@ -1625,12 +1938,25 @@ High School Dream,Nu-Metal
 High School Dream,Preppy
 High School Dream,Punk
 High School Dream,VSCO
+Abstract Tech,Corporate
+Abstract Tech,Cyberprep
+Abstract Tech,Cyberpunk
+Abstract Tech,Frutiger Aero
+Abstract Tech,Hexatron
+Abstract Tech,Intel Core
+Abstract Tech,Metalheart
+Abstract Tech,Technocore
+Abstract Tech,Y2K
 Hikecore,Adventurecore
 Hikecore,Cabincore
 Hikecore,Cottagecore
 Hikecore,Earthcore
 Hikecore,Goblincore
 Hikecore,Naturecore
+Hime Lolita,Lolita
+Hime Lolita,Classic Lolita
+Hime Lolita,Sweet Lolita
+Hime Lolita,Princesscore
 Hip-Hop,Casino
 Hip-Hop,Club
 Hip-Hop,Lo-Fi
@@ -1661,10 +1987,18 @@ Hipster,Wild Child
 Hipster,Folk Punk
 Hipster,Scene
 Hipster,Vintage
+Hispanicore,Tropical
+Hispanicore,Vacation Dadcore
+Hispanicore,Seapunk
+Hispanicore,Nautical
+Hispanicore,Country
+Hispanicore,Grandparentcore
+Hispanicore,Warmcore
+Hispanicore,Naturecore
+Hispanicore,Green Academia
 Historical Americana,Americana
 Historical Americana,Classicism
 Holosexual,Baddie
-Holosexual,Carcore
 Holosexual,Grunge
 Holosexual,Raver
 Holosexual,Rainbowcore
@@ -1734,6 +2068,7 @@ Hyperpop,Seapunk
 Hyperpop,Slimepunk
 Hyperpop,Vaporwave
 Hyperpop,Y2K
+I'm 14 and this is deep,Hatecore
 Icepunk,Cleancore
 Icepunk,Holosexual
 Icepunk,Poolcore
@@ -1743,6 +2078,13 @@ Icepunk,Winter
 Impressionism,Art Academia
 Impressionism,Post-Impressionism
 Impressionism,Realism
+Incel,Animecore
+Incel,Nerd
+Incel,Nice Guy
+Incel,Normcore
+Incel,Simp
+Indicolite,Sparklecore
+Indicolite,Ethereal
 Indie,Dark Academia
 Indie,Light Academia
 Indie,Romantic Academia
@@ -1753,13 +2095,36 @@ Indie,Dreamy
 Indie,Grunge
 Indie,Lo-Fi
 Indie,Nostalgiacore
-Indie,Pale
+Indie,Pale Grunge
 Indie,Pastel
 Indie,Shoegaze
 Indie,Skater
 Indie,Vaporwave
 Indie,Vintage
 Indie,Y2K
+Indie Kid,Acidwave
+Indie Kid,Cuddle Party
+Indie Kid,Dreamy
+Indie Kid,E-Girl
+Indie Kid,E-Boy
+Indie Kid,Indie
+Indie Kid,Kidcore
+Indie Kid,Lo-Fi
+Indie Kid,Plant Mom
+Indie Kid,Pop
+Indie Kid,Scene
+Indie Kid,Skater
+Indie Kid,Vaporwave
+Indie Kid,Y2K
+Indie Sleaze,Art Hoe
+Indie Sleaze,ElectroPop 08
+Indie Sleaze,Frutiger Aero
+Indie Sleaze,McBling
+Indie Sleaze,Poolcore
+Indie Sleaze,Surf Crush
+Indie Sleaze,Tiki
+Indie Sleaze,VSCO
+Indie Sleaze,Y2K
 Internet Academia,Chaotic Academia
 Internet Academia,Art Academia
 Internet Academia,Dark Academia
@@ -1791,7 +2156,6 @@ Jersey Shore,Cagole
 Jersey Shore,Chav
 Jersey Shore,Racaille
 Joyride,After Hours
-Joyride,Carcore
 Joyride,Dark Paradise
 Joyride,Rainy Day
 Juggalo,Clowncore
@@ -1799,11 +2163,15 @@ Juggalo,Furry
 Juggalo,Hip-Hop
 Juggalo,Horror
 Juggalo,Nu-Metal
+Jungle Grunge,Dark Naturalism
+Jungle Grunge,Gloomcore
+Jungle Grunge,Junglecore
+Jungle Grunge,Naturecore
 Junglecore,Cyan
 Junglecore,Green
 Junglecore,Summer
 Junglecore,Tropical
-Junglecore,Natural Philosophy
+Junglecore,Green Academia
 Junglecore,Naturecore
 Junglecore,Adventurecore
 Junglecore,Earthcore
@@ -1815,7 +2183,12 @@ Salvagepunk,Soft Apocalypse
 Karasu Zoku,Nu-Goth
 Karasu Zoku,Goth
 Karasu Zoku,Dark Paradise
-Kawaii,Anime
+Karencore,Baddie
+Karencore,Hustlewave
+Karencore,Studyblr
+Karencore,Studyplace
+Karencore,Mommy's on-the-phonecore
+Kawaii,Animecore
 Kawaii,Babycore
 Kawaii,Erokawa
 Kawaii,Gurokawa
@@ -1833,6 +2206,15 @@ Kawaii,Yume Kawaii
 Kawaii,Pastel Academia
 Kawaii Gamer,Kawaii
 Kawaii Gamer,Lo-Fi
+Key West Kitten,Nymphet
+Key West Kitten,Surf Crush
+Key West Kitten,Tropical
+Key West Kitten,Tweencore
+Key West Kitten,Vacation Dadcore
+Key West Kitten,Y2K
+Kid Science,Kidcore
+Kid Science,Science Academia
+Kid Science,Utopian Scholastic
 Kidcore,Cleancore
 Kidcore,Old Web
 Kidcore,Clowncore
@@ -1846,9 +2228,13 @@ Kidcore,Rainbowcore
 Kidcore,Nostalgiacore
 Kidcore,Sanriocore
 Kidcore,Memphis
-Kid Science,Kidcore
-Kid Science,Science Academia
-Kid Science,Utopian Scholastic
+Kimoicore,Vaporwave
+Kimoicore,Dreamcore
+Kimoicore,Gurokawa
+Kimoicore,Pastel Goth
+Kimoicore,Yami Kawaii
+Kimoicore,Lo-Fi
+Kimoicore,Weirdcore
 Kinderwhore,Babycore
 Kinderwhore,Babygirl
 Kinderwhore,Grunge
@@ -1891,6 +2277,11 @@ Kuromicore,Pastel
 Kuromicore,Pastel Goth
 Kuromicore,Sanriocore
 Kuromicore,Traumacore
+La Sape,Swenkas
+La Sape,Metrosexual
+La Sape,New Romantic
+La Sape,Afrofuturism
+La Sape,Afro-Victorian
 Labcore,Vaporwave
 Labcore,Science Academia
 Laborwave,Fashwave
@@ -1908,11 +2299,6 @@ Larme Kei,Gyaru
 Larme Kei,Lovecore
 Larme Kei,Nymphet
 Larme Kei,Mote Kei
-La Sape,Swenkas
-La Sape,Metrosexual
-La Sape,New Romantic
-La Sape,Afrofuturism
-La Sape,Afro-Victorian
 Light Academia,Preppy
 Light Academia,Art Academia
 Light Academia,Classic Academia
@@ -1924,29 +2310,30 @@ Light Academia,Studyblr
 Light Academia,Studyplace
 Light Academia,Post-Punk
 Light Academia,Indie
-Stormywave,Cloudcore
-Stormywave,Comfy/Cozy
-Stormywave,Dazecore
-Stormywave,Gloomcore
-Stormywave,Lo-Fi
-Stormywave,Naturecore
-Stormywave,Rainy Day
-Stormywave,Spring
-Stormywave,Summer
-Stormywave,Tropical
+Lightcore,Darkcore
+Lightcore,Dreamcore
+Lightcore,Liminal Space
+Lightcore,Weirdcore
+Lightningwave,Comfy/Cozy
+Lightningwave,Dazecore
+Lightningwave,Gloomcore
+Lightningwave,Lo-Fi
+Lightningwave,Naturecore
+Lightningwave,Rainy Day
+Lightningwave,Spring
+Lightningwave,Summer
+Lightningwave,Tropical
 Lil Girl,Softie
 Lil Girl,Tweencore
 Lil Girl,Hipster
 Lil Girl,Babygirl
 Lil Girl,Babycore
 Lil Girl,Kidcore
-Lit Kid,Kidcore
 Liminal Space,Acidwave
 Liminal Space,After Hours
 Liminal Space,Dark Paradise
 Liminal Space,Dreamcore
 Liminal Space,Dreamy
-Liminal Space,Glitch
 Liminal Space,Hydrogen
 Liminal Space,Poolcore
 Liminal Space,Surrealism
@@ -1954,6 +2341,7 @@ Liminal Space,Traumacore
 Liminal Space,Urbancore
 Liminal Space,Vaporwave
 Liminal Space,Weirdcore
+Lit Kid,Kidcore
 Lo-Fi,After Hours
 Lo-Fi,Animecore
 Lo-Fi,Cartooncore
@@ -1964,12 +2352,10 @@ Lo-Fi,Dark Paradise
 Lo-Fi,Dazecore
 Lo-Fi,Dreamy
 Lo-Fi,Ethereal
-Lo-Fi,Glitch
 Lo-Fi,Glowwave
 Lo-Fi,Hip-Hop
 Lo-Fi,Indie
 Lo-Fi,Lightningwave
-Lo-Fi,Milleniwave
 Lo-Fi,Musical Academia
 Lo-Fi,Pastel
 Lo-Fi,Pastel Academia
@@ -2004,7 +2390,7 @@ Lounge,Tropical
 Lounge,Vacation Dadcore
 Lounge,Vintage
 Lovecore,Angelcore
-Lovecore,Anime
+Lovecore,Animecore
 Lovecore,Girl-Next-Door
 Lovecore,Hatecore
 Lovecore,Devilcore
@@ -2016,6 +2402,21 @@ Lunarpunk,Purple
 Lunarpunk,Solarpunk
 Lunarpunk,Synthwave
 Lunarpunk,Vaporwave
+Major League Gaming,Arabfunny
+Major League Gaming,Crackhead
+Major League Gaming,Surreal Memer
+Major League Gaming,Rainbowcore
+Major League Gaming,Cartooncore
+MS Paint,Old Web
+MS Paint,Old Memecore
+MS Paint,Furry
+MS Paint,Weirdcore
+MTV Green Sky,Art Hoe
+MTV Green Sky,McBling
+MTV Green Sky,Poolcore
+MTV Green Sky,Tiki
+MTV Green Sky,VSCO
+MTV Green Sky,Y2K
 Macaute,Animecore
 Macaute,Emo
 Macaute,Gurokawa
@@ -2031,6 +2432,13 @@ Mad Scientist,Science Academia
 Magewave,Wizardcore
 Magewave,Acidwave
 Magewave,Fantasy
+Magical Girls,Animecore
+Magical Girls,Auroracore
+Magical Girls,Cartooncore
+Magical Girls,Kawaii
+Magical Girls,Yume Kawaii
+Magical Girls,Nostalgiacore
+Magical Girls,Fairy Kei
 Maidcore,Animecore
 Maidcore,Classic Lolita
 Maidcore,Cleancore
@@ -2041,6 +2449,13 @@ Maidcore,Kawaii
 Maidcore,Lolita
 Maidcore,Victorian Goth
 Maidcore,Visual Kei
+Mall Ninja,Animecore
+Mall Ninja,Incel
+Mall Ninja,Military
+Mall Ninja,Scrapper
+Mall Pop,Grunge
+Mall Pop,McBling
+Mall Pop,Y2K
 Mallgoth,Cybergoth
 Mallgoth,E-Girl
 Mallgoth,Emo
@@ -2053,10 +2468,9 @@ Mallgoth,Health Goth
 Mallgoth,Punk
 Mallgoth,Witch House
 Mallgoth,Bubble Goth
-Mall Ninja,Animecore
-Mall Ninja,Incel
-Mall Ninja,Military
-Mall Ninja,Scrapper
+Massivecockcore,Lovecore
+Massivecockcore,Sanriocore
+Massivecockcore,Traumacore
 McBling,Baddie
 McBling,Boujee
 McBling,Drugcore
@@ -2068,6 +2482,10 @@ McBling,Indie Sleaze
 McBling,Surf Crush
 McBling,Mall Pop
 McBling,MTV Green Sky
+Meatcore,Gorecore
+Meatcore,Devilcore
+Meatcore,Weirdcore
+Meatcore,Red
 Medicalcore,Cripplepunk
 Medicalcore,Cleancore
 Medicalcore,Drugcore
@@ -2077,16 +2495,16 @@ Medicalcore,Traumacore
 Medicalcore,Science Academia
 Medicalcore,Yami Kawaii
 Medieval,Bardcore
-MTV Green Sky,Art Hoe
-MTV Green Sky,McBling
-MTV Green Sky,Milleniwave
-MTV Green Sky,Poolcore
-MTV Green Sky,Tikicore
-MTV Green Sky,VSCO
-MTV Green Sky,Y2K
+Medieval Fantasy,Fantasy
+Medieval Fantasy,Fairy Tale
+Medieval Fantasy,Knightcore
+Medieval Fantasy,Royalcore
+Medieval Fantasy,Bardcore
+Medieval Fantasy,Dragoncore
+Medieval Fantasy,Witchcore
+Medieval Fantasy,Cottagecore
 Memphis,Corporate Memphis
 Memphis,Pop Art
-Memphis,Postmodernism
 Memphis,Synthwave
 Memphis,Vaporwave
 Memphis,Kidcore
@@ -2103,6 +2521,10 @@ Metalcore,Christcore
 Metalcore,Emo
 Metalcore,Nu-Metal
 Metalcore,Punk
+Metalheart,Y2K
+Metalheart,Old Web
+Metalheart,McBling
+Metalheart,Cyberpunk
 Metrosexual,Boujee
 Metrosexual,Corporate
 Metrosexual,Chic Modernist
@@ -2117,6 +2539,17 @@ Miami Metro,Foodie
 Miami Metro,Metrosexual
 Miami Metro,Synthwave
 Miami Metro,Tropical
+Delicate Sweet,Angelcore
+Delicate Sweet,Cult Party Kei
+Delicate Sweet,Yume Kawaii
+Delicate Sweet,Babycore
+Delicate Sweet,Grandparentcore
+Delicate Sweet,Larme Kei
+Delicate Sweet,Softie
+Delicate Sweet,Classic Lolita
+Delicate Sweet,Mori Kei
+Delicate Sweet,Ethereal
+Delicate Sweet,Romantic Academia
 Midwest Emo,Indie
 Midwest Emo,Emo
 Midwest Gothic,After Hours
@@ -2135,6 +2568,45 @@ Milk,Pastel
 Milk,Kidcore
 Milk,Grunge
 Milk,Foodie
+Mind Murder,DarkErrorcore
+Mind Murder,Tenwave
+Mind Murder,Acidwave
+Mind Murder,Hatecore
+Mind Murder,Vaporwave
+Mind Murder,Psychedelica
+Mind Murder,Nihilcore
+Mind Murder,Traumacore
+Mind Murder,Yandere
+Mind Murder,After Hours
+Mind Murder,Emo
+Mind Murder,Scene
+Mind Murder,Old Web
+Miniaturecore,Art Academia
+Miniaturecore,Baroque
+Miniaturecore,Classicism
+Miniaturecore,Craftcore
+Miniaturecore,Crowcore
+Miniaturecore,Goblincore
+Miniaturecore,Pastel
+Miniaturecore,Shabby Chic
+Miniaturecore,Vintage
+Minimalism,Chic Modernist
+Minimalism,Comfy/Cozy
+Minimalism,Corporate Memphis
+Minimalism,Cyber Minimalism
+Minimalism,De Stijl
+Minimalism,Purism
+Minimalism,Suprematism
+Minimalism,White
+Indie Minimalism,De Stijl
+Indie Minimalism,Indie
+Pastel Minimalism,Pastel
+Matcha Minimalism,Coffee House/Cafe
+Matcha Minimalism,Comfy/Cozy
+Matcha Minimalism,Vintage
+Matcha Minimalism,Technozen
+Mod,Americana
+Mod,Teddies
 Modernism,Atompunk
 Modernism,Avant-garde
 Modernism,Constructivism
@@ -2147,11 +2619,18 @@ Modernism,Futurism
 Modernism,Impressionism
 Modernism,Photorealism
 Modernism,Post-Impressionism
-Modernism,Postmodernism
 Modernism,Purism
 Modernism,Suprematism
 Modernism,Surrealism
 Modernism,Vorticism
+Mommy's on-the-phonecore,Dazecore
+Mommy's on-the-phonecore,Dreamy
+Mommy's on-the-phonecore,Karencore
+Mommy's on-the-phonecore,Normcore
+Mommy's on-the-phonecore,Vaporwave
+Monkeycore,Earthcore
+Monkeycore,Furry
+Monkeycore,Junglecore
 Mori Kei,Cottagecore
 Mori Kei,Fairycore
 Mori Kei,Dolly Kei
@@ -2175,7 +2654,6 @@ Morute,Southern Gothic
 Morute,Traumacore
 Morute,Trailer Park Princess
 Morute,Yami Kawaii
-Mote Kei,Larme Kei
 Mosscore,Bloomcore
 Mosscore,Cabincore
 Mosscore,Changelingcore
@@ -2185,13 +2663,10 @@ Mosscore,Cryptidcore
 Mosscore,Dark Academia
 Mosscore,Earthcore
 Mosscore,Forestpunk
-Mosscore,Natural Philosophy
+Mosscore,Green Academia
 Mosscore,Witchcore
 Mosscore,Witchy Academia
-MS Paint,Old Web
-MS Paint,Old Memecore
-MS Paint,Furry
-MS Paint,Weirdcore
+Mote Kei,Larme Kei
 Mushroomcore,Cottagecore
 Mushroomcore,Naturecore
 Mushroomcore,Goblincore
@@ -2199,7 +2674,7 @@ Mushroomcore,Mosscore
 Mushroomcore,Soggy
 Mushroomcore,Earthcore
 Mushroomcore,Forestpunk
-Mushroomcore,Natural Philosophy
+Mushroomcore,Green Academia
 Mushroomcore,Witchcore
 Musical Academia,Alternative
 Musical Academia,Dark Academia
@@ -2212,23 +2687,19 @@ Musical Academia,Theatre Academia
 Musical Academia,Theatre Kids
 Musical Academia,Romantic Academia
 Musical Academia,Vaporwave
-Minimalism,Chic Modernist
-Minimalism,Comfy/Cozy
-Minimalism,Corporate Memphis
-Minimalism,Cyber Minimalism
-Minimalism,De Stijl
-Minimalism,Purism
-Minimalism,Suprematism
-Minimalism,White
-Indie Minimalism,De Stijl
-Indie Minimalism,Indie
-Pastel Minimalism,Pastel
-Matcha Minimalism,Coffee House/Cafe
-Matcha Minimalism,Comfy/Cozy
-Matcha Minimalism,Vintage
-Matcha Minimalism,Technozen
-Mod,Americana
-Mod,Teddies
+Mythpunk,Woodland Goth
+Mythpunk,Dark Fantasy
+Mythpunk,Fantasy
+Mythpunk,Fairy Tale
+Mythpunk,Dark Academia
+Mythpunk,Goth
+Mythpunk,Gothic
+Mythpunk,Forestpunk
+Mythpunk,Fairycore
+Mythpunk,Vampire
+Mythpunk,Werewolf
+Mythpunk,Dethereal
+Mythpunk,New Romantic
 Nanopunk,Biopunk
 Nanopunk,Cyberpunk
 Green Academia,Campcore
@@ -2247,7 +2718,7 @@ Naturecore,Fairycore
 Naturecore,Goblincore
 Naturecore,Mori Kei
 Naturecore,Mushroomcore
-Naturecore,Natural Philosophy
+Naturecore,Green Academia
 Naturecore,Plant Mom
 Naturecore,Vulture Culture
 Nautical,Dark Nautical
@@ -2262,67 +2733,14 @@ Nautical,Trenchcore
 Nautical,Tropical
 Nautical,Vacation Dadcore
 Nautical,VSCO
-Nautical,selkiecore
+Nautical,Selkiecore
+Nautical,Cryptkeepercore
 Nazi Chic,Fashwave
 Nazi Chic,Military
 Neko,Animecore
 Neko,Erokawa
 Neko,Sanriocore
 Neko,Yume Kawaii
-Neomilitarism,Cyberpunk
-Neomilitarism,Corporate
-Neomilitarism,Military
-Neomilitarism,Gorpcore
-Nerd,Anime
-Nerd,Art Academia
-Nerd,Cartooncore
-Nerd,Chaotic Academia
-Nerd,Cyberprep
-Nerd,Cyberpunk
-Nerd,English Major
-Nerd,Game Night
-Nerd,Geek
-Nerd,Nerdcore
-Nerd,Nintencore
-Nerd,Spacecore
-Nerd,Steampunk
-Nerd,Studyblr
-Nerd,Vintage
-Nerd,Vintage Academia
-Nerd,Web Creep
-Nerd,Writer Academia
-Nerdcore,Trillwave
-Nerdcore,Hip-Hop
-Nerdcore,Anime
-New Age,Adventurecore
-New Age,Earthcore
-New Age,Forestpunk
-New Age,Goblincore
-New Age,Hermaphroditus
-New Age,Hippie
-New Age,Naturecore
-New Age,Rainbowcore
-New Age,Spacecore
-New Age,Utopian Scholastic
-New Age,Vaporwave
-New Age,Witchcore
-New Romantic,New Wave
-New Romantic,Post-Punk
-New Romantic,Cyberpunk
-New Romantic,Rococo
-New Romantic,Visual Kei
-New Romantic,Glam Rock
-New Romantic,City Pop
-New Romantic,Hallyu
-New Romantic,Vaporwave
-New Romantic,Synthwave
-New Romantic,Trad Goth
-New Romantic,Deathrock
-New Romantic,Goth
-New Romantic,Club Kids
-New Romantic,Film Noir
-New Romantic,70s Disco
-New Romantic,Mythpunk
 Neo-Romanism,Hellenic
 Neo-Romanism,Bronzepunk
 Neo-Romanism,Sandalpunk
@@ -2353,6 +2771,89 @@ Neo-Romanism,Poetcore
 Neo-Romanism,Science Academia
 Neo-Romanism,Military
 Neo-Romanism,Post-Apocalyptic
+Neo-Tokyo,Cyberpunk
+Neo-Tokyo,Animecore
+Neo-Tokyo,Synthwave
+Neo-Tokyo,Retro-Futurism
+Neo-Tokyo,Atompunk
+Neo-Tokyo,Afrofuturism
+Neo-Tokyo,Biopunk
+Neo - Vikings,Neo-Romanism
+Neo - Vikings,Spacecore
+Neo - Vikings,Lunarpunk
+Neomilitarism,Cyberpunk
+Neomilitarism,Corporate
+Neomilitarism,Military
+Neomilitarism,Gorpcore
+Neon Academia,Glowwave
+Neon Academia,Vibrant Academia
+Neon Academia,Vaporwave
+Neon Academia,Mad Scientist
+Nerd,Animecore
+Nerd,Art Academia
+Nerd,Cartooncore
+Nerd,Chaotic Academia
+Nerd,Cyberprep
+Nerd,Cyberpunk
+Nerd,English Major
+Nerd,Game Night
+Nerd,Geek
+Nerd,Nerdcore
+Nerd,Nintencore
+Nerd,Spacecore
+Nerd,Steampunk
+Nerd,Studyblr
+Nerd,Vintage
+Nerd,Web Creep
+Nerd,Writer Academia
+Nerdcore,Trillwave
+Nerdcore,Hip-Hop
+Nerdcore,Animecore
+New Age,Adventurecore
+New Age,Earthcore
+New Age,Forestpunk
+New Age,Goblincore
+New Age,Hermaphroditus
+New Age,Hippie
+New Age,Naturecore
+New Age,Rainbowcore
+New Age,Spacecore
+New Age,Utopian Scholastic
+New Age,Vaporwave
+New Age,Witchcore
+New England Gothic,Gothic
+New England Gothic,Southern Gothic
+New Money,Bohemian
+New Money,Boujee
+New Money,Playboy
+New Money,Italian Mafia
+New Money,Snow Bunny
+New Romantic,New Wave
+New Romantic,Post-Punk
+New Romantic,Cyberpunk
+New Romantic,Rococo
+New Romantic,Visual Kei
+New Romantic,Glam Rock
+New Romantic,City Pop
+New Romantic,Hallyu
+New Romantic,Vaporwave
+New Romantic,Synthwave
+New Romantic,Trad Goth
+New Romantic,Deathrock
+New Romantic,Goth
+New Romantic,Club Kids
+New Romantic,Film Noir
+New Romantic,70s Disco
+New Romantic,Mythpunk
+Nice Guy,Animecore
+Nice Guy,Incel
+Nice Guy,Nerd
+Nice Guy,Normcore
+Nice Guy,Simp
+Nihilcore,Dazecore
+Nihilcore,Grunge
+Nihilcore,Sadpeople
+Nihilcore,Vaporwave
 Nintencore,Gamercore
 Nintencore,Nostalgiacore
 Normcore,Art Hoe
@@ -2386,8 +2887,18 @@ Nostalgiacore,Synthwave
 Nostalgiacore,Tweencore
 Nostalgiacore,Vaporwave
 Nostalgiacore,Vintage
-Nostalgiacore,Vintage Academia
 Nostalgiacore,Y2K
+Nu-Metal,Emo
+Nu-Metal,Grunge
+Nu-Metal,Hip-Hop
+Nu-Metal,Hot Topic
+Nu-Metal,Metal
+Nu-Metal,Punk
+Nu-Metal,Raver
+Nu-Metal,Scene
+Nu-Metal,Skater
+Nu-Metal,E-Boy
+Nu-Metal,E-Girl
 Nuclearcore,Military
 Nymphet,Babygirl
 Nymphet,Dark Nymphet
@@ -2419,19 +2930,18 @@ Ocean Grunge,Selkiecore
 Old Hollywood,Art Deco
 Old Hollywood,Flapper
 Old Hollywood,Femme Fatale
-Webcore,Animecore
-Webcore,Cartooncore
-Webcore,Cyberpunk
-Webcore,Emo
-Webcore,Frutiger Aero
-Webcore,Glowwave
-Webcore,Kidcore
-Webcore,Nostalgiacore
-Webcore,Old Memecore
-Webcore,Scene
-Webcore,Vaporwave
-Webcore,Vintage
-Webcore,Y2K
+Old Memecore,Weirdcore
+Old Memecore,Old Web
+Old Money,Preppy
+Old Money,Sloanies
+Old Money,Vintage
+Old Money,Dark Academia
+American Pioneers,Adventurecore
+American Pioneers,Americana
+American Pioneers,Cottagecore
+American Pioneers,Campcore
+American Pioneers,Prairiecore
+American Pioneers,Western
 Oshare Kei,Decora
 Oshare Kei,Fairy Kei
 Oshare Kei,Pop Kei
@@ -2441,15 +2951,14 @@ Pale Grunge,Grunge
 Pale Grunge,Traumacore
 Pale Grunge,Sadpeople
 Pale Grunge,2014-era tumblr
-Palewave,Normcore
-Palewave,Vaporwave
 Paleocore,Adventurecore
 Paleocore,Cryptidcore
-Paleocore,Dinocore
 Paleocore,Junglecore
-Paleocore,Natural Philosophy
+Paleocore,Green Academia
 Paleocore,Science Academia
 Paleocore,Vulture Culture
+Palewave,Normcore
+Palewave,Vaporwave
 Party Animal,Club
 Party Animal,Club Kids
 Party Animal,Brocore
@@ -2494,6 +3003,23 @@ Pastel Academia,Studyblr
 Pastel Academia,Studyplace
 Pastel Academia,Theatre Academia
 Pastel Academia,Vibrant Academia
+Auroracore,Angelcore
+Auroracore,Art Nouveau
+Auroracore,Dreamy
+Auroracore,Ethereal
+Auroracore,Fantasy
+Auroracore,Fairycore
+Auroracore,Fairy Tale
+Auroracore,Magical Girls
+Auroracore,Otherkin
+Auroracore,Pastel
+Auroracore,Pixiecore
+Auroracore,Princesscore
+Auroracore,Rainbowcore
+Auroracore,Snowdrop
+Auroracore,Spacecore
+Auroracore,Sparklecore
+Auroracore,Unicorncore
 Pastel Goth,Dual Kawaii
 Pastel Goth,Goth
 Pastel Goth,Gurokawa
@@ -2508,11 +3034,11 @@ Pastel Punk,Pastel Goth
 Pastel Punk,Punk
 Pastel Punk,Yume Kawaii
 Pastel Punk,Unicorncore
-Modern Peach,Kawaii
-Modern Peach,Lo-Fi
-Vintage Peach,Comfy/Cozy
-Vintage Peach,Cottagecore
-Vintage Peach,Warmcore
+Peach,Kawaii
+Peach,Lo-Fi
+Peach,Comfy/Cozy
+Peach,Cottagecore
+Peach,Warmcore
 Pearly,Angelcore
 Pearly,Boujee
 Pearly,Hellenic
@@ -2521,7 +3047,9 @@ Pearly,Pastel
 Pearly,Pirate
 Pearly,Reefwave
 Peoplehood,Art Hoe
+Peoplehood,Comfy/Cozy
 Peoplehood,Cottagecore
+Peoplehood,Grandparentcore
 Peoplehood,Light Academia
 Photorealism,Art Academia
 Photorealism,Art Hoe
@@ -2530,6 +3058,11 @@ Photorealism,Minimalism
 Photorealism,Modernism
 Photorealism,Pop Art
 Photorealism,Realism
+Pin-up,Atompunk
+Pin-up,Femme Fatale
+Pin-up,Gamine
+Pin-up,Lounge
+Pin-up,Vintage
 Vintage Parisian,Angelcore
 Vintage Parisian,Boujee
 Vintage Parisian,Chic Modernist
@@ -2543,23 +3076,23 @@ Pink Princess,Princesscore
 Pink Princess,Rococo
 Pink Princess,Romantic Academia
 Pink Princess,Vintage Parisian
-Pin-up,Atompunk
-Pin-up,Femme Fatale
-Pin-up,Gamine
-Pin-up,Lounge
-Pin-up,Vintage
 Pirate,Adventurecore
 Pirate,Crowcore
 Pirate,Dark Nautical
 Pirate,Nautical
 Pirate,Reefwave
+Bastardcore,Crackhead
+Bastardcore,Scrapper
 Pixel Cutie,Hyperpop
 Pixel Cutie,Kawaii
 Pixel Cutie,Lo-Fi
-Pixel Cutie,Milleniwave
 Pixel Cutie,Pastel
 Pixel Cutie,Seapunk
 Pixel Cutie,Synthwave
+Pixelscape,Old Web
+Pixelscape,Kidcore
+Pixelscape,Nostalgiacore
+Pixelscape,McBling
 Pixiecore,Cottagecore
 Pixiecore,Crowcore
 Pixiecore,Ethereal
@@ -2573,9 +3106,10 @@ Plant Mom,Art Hoe
 Plant Mom,Bloomcore
 Plant Mom,Cottagecore
 Plant Mom,Earthcore
-Plant Mom,Natural Philosophy
+Plant Mom,Green Academia
 Plant Mom,Naturecore
 Plant Mom,VSCO
+Plant Mom,Cryptkeepercore
 Playboy,New Money
 Playboy,Baddie
 Playboy,Boujee
@@ -2584,10 +3118,37 @@ Playboy,Casino
 Playboy,Femme Fatale
 Playboy,Stripcore
 Playboy,Spy Fiction
+Poetcore,Coffee House/Cafe
+Poetcore,Indie
+Poetcore,Romantic Academia
+Poetcore,Writer Academia
+Poetcore,Grunge
+Poetcore,Witchcore
+Poetcore,Witchy Academia
+Poetcore,Cottagecore
+Poolcore,Cleancore
+Poolcore,Dreamy
+Poolcore,Glowwave
+Poolcore,Icepunk
+Poolcore,Kidcore
+Poolcore,Liminal Space
+Poolcore,Lo-Fi
+Poolcore,Minimalism
+Poolcore,Nostalgiacore
+Poolcore,Ocean Grunge
+Poolcore,Rainy Day
+Poolcore,Reefwave
+Poolcore,Seapunk
+Poolcore,Summer
+Poolcore,Tropical
+Poolcore,Vacation Dadcore
+Poolcore,Vaporwave
+Poolcore,Weirdcore
+Poolcore,Y2K
 Pop,Baddie
 Pop,Britpop
 Pop,C-Pop
-Pop,CHEIRON CRUSH
+Pop,Cheiron Crush
 Pop,City Pop
 Pop,Hi-NRG
 Pop,Hip-Hop
@@ -2606,26 +3167,42 @@ Pop Kei,Decora
 Pop Kei,Kidcore
 Pop Kei,Oshare Kei
 Pop Kei,Party Kei
-Post-Impressionism,Art Academia
-Post-Impressionism,Cubism
-Post-Impressionism,Expressionism
-Post-Impressionism,Impressionism
-Post-Impressionism,Modernism
-Postmodernism,Modernism
 Post-Apocalyptic,Cyberpunk
 Post-Apocalyptic,Dullcore
 Post-Apocalyptic,Plaguecore
 Post-Apocalyptic,Soft Apocalypse
 Post-Apocalyptic,Retro-Futurism
 Post-Apocalyptic,Zombiecore
+Post-Impressionism,Art Academia
+Post-Impressionism,Cubism
+Post-Impressionism,Expressionism
+Post-Impressionism,Impressionism
+Post-Impressionism,Modernism
+Post-Punk,Deathrock
+Post-Punk,Goth
+Post-Punk,Punk
+Post-Punk,Shoegaze
+Post-Punk,Trad Goth
+Post-Punk,Dreamy
+Post-Punk,Dark Academia
+Post-Punk,Woodland Goth
 Prairiecore,Adventurecore
 Prairiecore,Americana
+Prairiecore,Bloomcore
 Prairiecore,Cottagecore
 Prairiecore,Craftcore
 Prairiecore,Naturecore
+Prehistoricore,Paleocore
+Prehistoricore,Stonepunk
 Preppy,Nautical
 Preppy,Pretty preppy
 Preppy,VSCO Preppy
+Pretty preppy,Barbiecore
+Pretty preppy,Bubblegum Bitch
+Pretty preppy,Old Money
+Pretty preppy,Preppy
+Pretty preppy,Tweencore
+Pretty preppy,High School Dream
 Princecore,Kingcore
 Princecore,Knightcore
 Princecore,Princesscore
@@ -2643,6 +3220,7 @@ Princesscore,Kingcore
 Princesscore,Knightcore
 Princesscore,Lolita
 Princesscore,Old Money
+Princesscore,Pretty preppy
 Princesscore,Princecore
 Princesscore,Queencore
 Princesscore,Rococo
@@ -2687,6 +3265,24 @@ Purism,Art Academia
 Purism,Cubism
 Purism,Modernism
 Purism,Suprematism
+Purple,Babygirl
+Purple,Barbiecore
+Purple,Fashwave
+Purple,Halloween
+Purple,Laborwave
+Purple,Lo-Fi
+Purple,Lunarpunk
+Purple,Royalcore
+Purple,Seapunk
+Purple,Synthwave
+Purple,Tropical
+Purple,Vaporwave
+Purple,Virgo's Tears
+Purple,Witch House
+Purple,Yami Kawaii
+Quality Tumblr,Common White Girl
+Quality Tumblr,Pale Grunge
+Quality Tumblr,VSCO
 Queencore,Baddie
 Queencore,Kingcore
 Queencore,Knightcore
@@ -2706,7 +3302,15 @@ Racaille,Baddie
 Racaille,Chav
 Racaille,Jersey Shore
 Racaille,Bombacore
-Rainbowcore,Carcore
+Ragecore,E-Boy
+Ragecore,Goth
+Ragecore,Gothcore
+Ragecore,Metal
+Ragecore,Metalcore
+Ragecore,Nu-Metal
+Ragecore,Punk
+Ragecore,Rock
+Ragecore,Trillwave
 Rainbowcore,Cyberdelic
 Rainbowcore,Cyberprep
 Rainbowcore,Cyberpunk
@@ -2716,7 +3320,6 @@ Rainbowcore,Glowwave
 Rainbowcore,Holosexual
 Rainbowcore,Icepunk
 Rainbowcore,Kidcore
-Rainbowcore,Milleniwave
 Rainbowcore,Nostalgiacore
 Rainbowcore,Old Web
 Rainbowcore,Scene
@@ -2745,6 +3348,9 @@ Rainy Day,Soggy
 Rainy Day,Spring
 Rainy Day,Summer
 Rainy Day,Tropical
+Randumb,Scene
+Randumb,Emo
+Randumb,Goth
 Rangercore,Adventurecore
 Rangercore,Forestpunk
 Rangercore,Kingcore
@@ -2755,8 +3361,6 @@ Rangercore,Princesscore
 Rangercore,Queencore
 Rangercore,Royalcore
 Ratcore,Goblincore
-Ratcore,Pigeoncore
-Ratcore,Caninecore
 Ratcore,Bastardcore
 Ratcore,Weirdcore
 Ratcore,Kawaii
@@ -2766,6 +3370,8 @@ Ravencore,Cottagecore
 Ravencore,Witchcore
 Ravencore,Naturecore
 Ravencore,Dark Academia
+Ravencore,Cryptkeepercore
+Ravencore,Batcore
 Raver,Cyberdelic
 Raver,Cybergoth
 Raver,Cyberpop
@@ -2773,10 +3379,10 @@ Raver,Cyberprep
 Raver,Cyberpunk
 Raver,Glowwave
 Raver,Psychedelica
+Raver,Scene
 Raver,Seapunk
 Raver,Synthwave
 Real Life Super Hero,Kidcore
-Real Life Super Hero,Zentai
 Realism,Art Academia
 Realism,Photorealism
 Reefwave,Earthcore
@@ -2818,6 +3424,13 @@ Rococo,Ethereal
 Rococo,Lolita
 Rococo,Princesscore
 Rococo,Romanticism
+Rogue core,Royalcore
+Rogue core,Dragoncore
+Rogue core,Kingcore
+Rogue core,Knightcore
+Rogue core,Princesscore
+Rogue core,Princecore
+Rogue core,Queencore
 Rollerwave,Hauntology
 Rollerwave,Hippie
 Rollerwave,Mod
@@ -2833,21 +3446,6 @@ Roma,Cabincore
 Roma,Bohemian
 Roma,Adventurecore
 Roma,Dark Academia
-Romantic Goth,Gothic
-Romantic Goth,Goth
-Romantic Goth,Gothic Lolita
-Romantic Goth,Trad Goth
-Romantic Goth,Romanticism
-Romantic Goth,Romantic Academia
-Romantic Goth,Victorian
-Romantic Goth,Victorian Goth
-Romantic Goth,Woodland Goth
-Romanticism,Art Academia
-Romanticism,Dark Academia
-Romanticism,Light Academia
-Romanticism,Romantic Academia
-Romanticism,Gothic
-Romanticism,New Romantic
 Romantic Academia,Art Academia
 Romantic Academia,Ballet Academia
 Romantic Academia,Dark Academia
@@ -2863,6 +3461,15 @@ Romantic Academia,Dreamy
 Romantic Academia,Post-Punk
 Romantic Academia,Autumn
 Romantic Academia,Poetcore
+Romantic Goth,Gothic
+Romantic Goth,Goth
+Romantic Goth,Gothic Lolita
+Romantic Goth,Trad Goth
+Romantic Goth,Romanticism
+Romantic Goth,Romantic Academia
+Romantic Goth,Victorian
+Romantic Goth,Victorian Goth
+Romantic Goth,Woodland Goth
 Romantic Italian,Angelcore
 Romantic Italian,Art Academia
 Romantic Italian,Classic Academia
@@ -2874,24 +3481,51 @@ Romantic Italian,Pastel
 Romantic Italian,Romantic Academia
 Romantic Italian,Vintage Parisian
 Romantic Italian,Wanderlust
+Romanticism,Art Academia
+Romanticism,Dark Academia
+Romanticism,Light Academia
+Romanticism,Romantic Academia
+Romanticism,Gothic
+Romanticism,New Romantic
+Rotcore,Morute
+Rotcore,Traumacore
+Rotcore,Gorecore
+Rotcore,Grunge
+Royal Abomination,Dark Paradise
+Royal Abomination,Dethereal
+Royal Abomination,Gothic
+Royal Abomination,Royalcore
+Royal Abomination,Kingcore
+Royal Abomination,Queencore
+Royal Abomination,Princecore
+Royal Abomination,Princesscore
+Royal Abomination,Sadpeople
+Royal Abomination,Traumacore
 Royalcore,Dragoncore
 Royalcore,Kingcore
 Royalcore,Knightcore
 Royalcore,Princesscore
 Royalcore,Princecore
 Royalcore,Queencore
-Rotcore,Morute
-Rotcore,Traumacore
-Rotcore,Gorecore
-Rotcore,Grunge
 Rusticcore,Americana
 Rusticcore,Autumn
 Rusticcore,Bloomcore
 Rusticcore,Cottagecore
+Rusticcore,Country
 Rusticcore,Grunge
 Rusticcore,Hikecore
 Rusticcore,Naturecore
+Rusticcore,Prairiecore
 Rusticcore,Vintage
+Rusticcore,Western
+SacriCore,Angelcore
+SacriCore,Christcore
+SacriCore,Devilcore
+SacriCore,Grunge
+SacriCore,Punk
+SacriCore,Slutcore
+SacriCore,Traumacore
+SacriCore,Witchcore
 Sadpeople,Drugcore
 Sadpeople,E-Boy
 Sadpeople,E-Girl
@@ -2899,11 +3533,14 @@ Sadpeople,Emo
 Sadpeople,Grunge
 Sadpeople,Liminal Space
 Sadpeople,Lo-Fi
-Sadpeople,Pale
+Sadpeople,Pale Grunge
 Sadpeople,Traumacore
 Sadpeople,Vaporwave
 Sadpeople,Voidpunk
 Sadpeople,Yami Kawaii
+Salvagepunk,Gadgetpunk
+Salvagepunk,Post-Apocalyptic
+Salvagepunk,Soft Apocalypse
 Sandalpunk,Bronzepunk
 Sandalpunk,Steampunk
 Sandalpunk,Neo-Romanism
@@ -2917,6 +3554,18 @@ Sanriocore,Pastel
 Sanriocore,Pastel Goth
 Sanriocore,Softie
 Sanriocore,Kuromicore
+Scene,Club Kids
+Scene,E-Girl
+Scene,E-Boy
+Scene,Emo
+Scene,Old Web
+Scene,Punk
+Scene,Raver
+Schizowave,Vaporwave
+Schoolgirl Lifestyle,High School Dream
+Schoolgirl Lifestyle,Gyaru
+Schoolgirl Lifestyle,Kogal
+Schoolgirl Lifestyle,Preppy
 Science Academia,Chaotic Academia
 Science Academia,Classic Academia
 Science Academia,Dark Academia
@@ -2929,6 +3578,12 @@ Science Academia,Labcore
 Science Academia,Mad Scientist
 Science Academia,Gadgetpunk
 Science Academia,Studyblr
+Scoutcore,Adventurecore
+Scoutcore,Dark Naturalism
+Scoutcore,Hikecore
+Scoutcore,Naturecore
+Scoutcore,Craftcore
+Scoutcore,Cabincore
 Scrapbook,Art Academia
 Scrapbook,Art Hoe
 Scrapbook,Craftcore
@@ -2945,19 +3600,6 @@ Scrapper,Brocore
 Scrapper,Chav
 Scrapper,Greaser
 Scrapper,Grunge
-Scene,Club Kids
-Scene,E-Girl
-Scene,E-Boy
-Scene,Emo
-Scene,Old Web
-Scene,Punk
-Scene,Raver
-Scoutcore,Adventurecore
-Scoutcore,Dark Naturalism
-Scoutcore,Hikecore
-Scoutcore,Naturecore
-Scoutcore,Craftcore
-Scoutcore,Cabincore
 Seapunk,Glowwave
 Seapunk,Holosexual
 Seapunk,Icepunk
@@ -2975,15 +3617,6 @@ Selkiecore,Ocean Grunge
 Selkiecore,Nautical
 Selkiecore,Dark Fantasy
 Selkiecore,Celtic
-Shanzhai,Boujee
-Shanzhai,Foodie
-Shanzhai,Hustlewave
-Shanzhai,Vaporwave
-Shā mǎ tè,Emo
-Shā mǎ tè,Goth
-Shā mǎ tè,Punk
-Shā mǎ tè,Scene
-Shā mǎ tè,Visual Kei
 Shabby Chic,Art Academia
 Shabby Chic,Cottagecore
 Shabby Chic,Fairy Academia
@@ -2994,10 +3627,45 @@ Shabby Chic,Prairiecore
 Shabby Chic,Rococo
 Shabby Chic,Victorian
 Shabby Chic,Vintage
+Shadowcore,Cryptidcore
+Shadowcore,Dark Naturalism
+Shadowcore,Dark Paradise
+Shadowcore,Grunge
+Shadowcore,Rainy Day
+Shadowcore,Vintage
+Shā mǎ tè,Emo
+Shā mǎ tè,Goth
+Shā mǎ tè,Punk
+Shā mǎ tè,Scene
+Shā mǎ tè,Visual Kei
+Shanzhai,Boujee
+Shanzhai,Foodie
+Shanzhai,Hustlewave
+Shanzhai,Vaporwave
+Shibuya Punk,City Pop
+Shibuya Punk,Urbancore
+Shibuya Punk,Y2K
+Shibuya Punk,Superflat Pop
+Shibuya Punk,Breakcore
 Shironuri,Goth
 Shironuri,Angura Kei
 Shironuri,Mori Kei
+Shoegaze,Britpop
+Shoegaze,Dreamy
+Shoegaze,Lo-Fi
+Shā mǎ tè,Emo
+Shā mǎ tè,Goth
+Shā mǎ tè,Punk
+Shā mǎ tè,Scene
+Shā mǎ tè,Visual Kei
+Simp,Nice Guy
+Simp,Incel
 Sizz,Cryptidcore
+Skater,Alternative
+Skater,Nu-Metal
+Skater,Hip-Hop
+Skater,Punk
+Skater,Grunge
 Sleepycore,Babycore
 Sleepycore,Delicate Sweet
 Sleepycore,Dreamy
@@ -3020,17 +3688,38 @@ Slutcore,Boujee
 Slutcore,Devilcore
 Slutcore,Babygirl
 Slutcore,Pin-up
+Smilecore,Happycore
+Smilecore,Rainbowcore
+Smilecore,Pastel
+Smilecore,Kidcore
+Smilecore,Nostalgiacore
+Smilecore,Kawaii
+Smilecore,Clowncore
+Smilecore,Traumacore
+Smilecore,Old Web
+Smilecore,Weirdcore
+Smilecore,Dreamcore
+Snow Bunny,Beach Bunny
+Snow Bunny,Boujee
 Snowdrop,Auroracore
 Snowdrop,Ballet Academia
 Snowdrop,Ethereal
 Snowdrop,Princesscore
 Snowdrop,Romantic Academia
-Snow Bunny,Beach Bunny
-Snow Bunny,Boujee
 Soft Apocalypse,Avant Apocalypse
 Soft Apocalypse,Cargopunk
 Soft Apocalypse,Post-Apocalyptic
 Soft Apocalypse,Solarpunk
+Soft Macabre,Yami Kawaii
+Soft Macabre,Macaute
+Soft Grunge,Cuddle Party
+Soft Grunge,Dazecore
+Soft Grunge,Grunge
+Soft Grunge,Nymphet
+Soft Grunge,Pale Grunge
+Soft Grunge,Softie
+Soft Grunge,Soft Macabre
+Soft Grunge,2014-era tumblr
 Softgirl,E-Girl
 Softgirl,Kawaii
 Softgirl,VSCO
@@ -3042,19 +3731,15 @@ Soft Baddie,Kawaii
 Soft Baddie,Kawaii
 Soft Baddie,Glam Girl
 Soft Baddie,Old Money
-Dark Softgirl,Art Hoe
-Dark Softgirl,E-Boy
-Dark Softgirl,Kawaii
-Dark Softgirl,VSCO
-Softboy,Comfy/Cozy
+Softboy,Art Hoe
 Softboy,E-Boy
 Softboy,Kawaii
 Softboy,VSCO
-Softboy,Blue
-Soft Grunge,Nymphet
-Soft Grunge,Grunge
-Soft Macabre,Yami Kawaii
-Soft Macabre,Macaute
+Oceanboy,Comfy/Cozy
+Oceanboy,E-Boy
+Oceanboy,Kawaii
+Oceanboy,VSCO
+Oceanboy,Blue
 Soggy,Earthcore
 Soggy,Mosscore
 Soggy,Naturecore
@@ -3064,27 +3749,29 @@ Solarpunk,Art Nouveau
 Solarpunk,Green
 Solarpunk,Lunarpunk
 Solarpunk,Naturecore
-Southern Gothic (Fashion/Historical),After Hours
-Southern Gothic (Fashion/Historical),Anglo Gothic
-Southern Gothic (Fashion/Historical),Goth
-Southern Gothic (Fashion/Historical),Midwest Gothic
-Southern Gothic (Fashion/Historical),Regional Gothic
-Southern Gothic (Fashion/Historical),Southern Belle
-Southern Gothic (Fashion/Historical),Suburban Gothic
-Southern Gothic (Fashion/Historical),Goth
-Southern Gothic (Fashion/Historical),Trad Goth
-Southern Gothic (Fashion/Historical),Deathrock
-Southern Gothic (Fashion/Historical),Cryptidcore
-Southern Gothic (Regional/Modern),After Hours
-Southern Gothic (Regional/Modern),Anglo Gothic
-Southern Gothic (Regional/Modern),Coffinwood
-Southern Gothic (Regional/Modern),Midwest Gothic
-Southern Gothic (Regional/Modern),Regional Gothic
-Southern Gothic (Regional/Modern),Suburban Gothic
-Southern Gothic (Regional/Modern),Goth
-Southern Gothic (Regional/Modern),Trad Goth
-Southern Gothic (Regional/Modern),Deathrock
-Southern Gothic (Regional/Modern),Cryptidcore
+Southern Belle,Old Money
+Southern Belle,Preppy
+Southern Gothic,After Hours
+Southern Gothic,Anglo Gothic
+Southern Gothic,Goth
+Southern Gothic,Midwest Gothic
+Southern Gothic,Regional Gothic
+Southern Gothic,Southern Belle
+Southern Gothic,Suburban Gothic
+Southern Gothic,Goth
+Southern Gothic,Trad Goth
+Southern Gothic,Deathrock
+Southern Gothic,Cryptidcore
+Southern Gothic,After Hours
+Southern Gothic,Anglo Gothic
+Southern Gothic,Coffinwood
+Southern Gothic,Midwest Gothic
+Southern Gothic,Regional Gothic
+Southern Gothic,Suburban Gothic
+Southern Gothic,Goth
+Southern Gothic,Trad Goth
+Southern Gothic,Deathrock
+Southern Gothic,Cryptidcore
 Sovietwave,Laborwave
 Sovietwave,Synthwave
 Sovietwave,Vaporwave
@@ -3107,6 +3794,20 @@ Spiritcore,Dark Academia
 Spiritcore,Lo-Fi
 Spiritcore,Lunarpunk
 Spiritcore,Vaporwave
+New Age,Adventurecore
+New Age,Earthcore
+New Age,Forestpunk
+New Age,Goblincore
+New Age,Hermaphroditus
+New Age,Hippie
+New Age,Naturecore
+New Age,Rainbowcore
+New Age,Spacecore
+New Age,Utopian Scholastic
+New Age,Vaporwave
+New Age,Witchcore
+Spriggancore,Fairycore
+Spriggancore,Woodland Goth
 Spring,Autumn
 Spring,Bloomcore
 Spring,Cottagecore
@@ -3199,28 +3900,37 @@ Summer,Tropical
 Summer,Vacation Dadcore
 Summer,Winter
 Summer,Hispanicore
+Superflat Pop,Gurokawa
+Superflat Pop,Shibuya Punk
+Superflat Pop,Frutiger Aero
+Superflat Pop,Funky Seasons
+Superflat Pop,Y2K
+Superflat Pop,Surf Crush
+Superflat Pop,Emo
+Superflat Pop,Cheiron Crush
+Superflat Pop,Urbancore
+Superflat Pop,Pixelscape
+Superflat Pop,Pop Art
 Suprematism,Art Academia
 Suprematism,Minimalism
 Surf Crush,Art Hoe
 Surf Crush,Frutiger Aero
 Surf Crush,McBling
-Surf Crush,Milleniwave
 Surf Crush,Poolcore
 Surf Crush,Superflat Pop
-Surf Crush,Tikicore
+Surf Crush,Tiki
 Surf Crush,VSCO
 Surf Crush,Y2K
-Surrealism,Art Academia
-Surrealism,Bizarro Fiction
-Surrealism,Modernism
 Surreal Memer,Alien
 Surreal Memer,Arabfunny
 Surreal Memer,Bastardcore
+Surrealism,Art Academia
+Surrealism,Bizarro Fiction
+Surrealism,Modernism
 Swenkas,La Sape
 Swordpunk,Cyberpunk
 Swordpunk,Medieval Fantasy
 Swordpunk,Steampunk
-Synthwave,Carcore
 Synthwave,Cyberdelic
 Synthwave,Cyberpunk
 Synthwave,Dreamy
@@ -3236,17 +3946,26 @@ Synthwave,New Romantic
 Synthwave,New Wave
 Synthwave,City Pop
 Takenokozoku,Gyaru
-Tenwave,Acidwave
-Tenwave,Cyberpunk
-Tenwave,Glitch
-Tenwave,Hippie
-Tenwave,Kidcore
-Tenwave,Milleniwave
-Tenwave,Mind Murder
-Tenwave,Psychedelica
-Tenwave,Shoegaze
-Tenwave,Trillwave
-Tenwave,Vaporwave
+Technical Scene,Animecore
+Technical Scene,Intel Core
+Technocore,Abstract Tech
+Technocore,Cyberdelic
+Technocore,Cyberpunk
+Technocore,Old Web
+Technocore,Steampunk
+Technocore,Synthwave
+Technocore,Urbancore
+Technocore,Vaporwave
+Technocore,Y2K
+Technozen,Frutiger Aero
+Technozen,Funky Seasons
+Technozen,Cyber Minimalism
+Technozen,Gen X Soft Club
+Technozen,Nintencore
+Technozen,Vaporwave
+Technozen,Pastel Academia
+Technozen,Corporate
+Technozen,Weathercore
 Techwear,Cargopunk
 Techwear,Cybergoth
 Techwear,Cyberpunk
@@ -3255,11 +3974,31 @@ Teddies,Androgynous
 Teddies,Mod
 Teddies,New Romantic
 Teddies,Youthquake
-Technical Scene,Animecore
-Technical Scene,Intel Core
 Teethcore,Medicalcore
 Teethcore,Pastel Goth
 Teethcore,Grunge
+Tenwave,Acidwave
+Tenwave,Cyberpunk
+Tenwave,Hippie
+Tenwave,Kidcore
+Tenwave,Mind Murder
+Tenwave,Psychedelica
+Tenwave,Shoegaze
+Tenwave,Trillwave
+Tenwave,Vaporwave
+Terrorwave,Fashwave
+Terrorwave,Laborwave
+Terrorwave,Sovietwave
+Terrorwave,Vaporwave
+Teslapunk,Cyberpunk
+Teslapunk,Decopunk
+Teslapunk,Dieselpunk
+Teslapunk,Steampunk
+Teslapunk,Victorian
+That Girl,Baddie
+That Girl,Bimbo Casual
+That Girl,Nymphet
+That Girl,VSCO
 Theatre Academia,Art Academia
 Theatre Academia,Ballet Academia
 Theatre Academia,Dark Academia
@@ -3267,12 +4006,12 @@ Theatre Academia,Darkest Academia
 Theatre Academia,Light Academia
 Theatre Academia,Romantic Academia
 Theatre Academia,Theatre Kids
-Theater Kids,High School Dream
-Theater Kids,Theatre Academia
-Theater Kids,Musical Academia
-Theater Kids,Tweencore
-Theater Kids,Preppy
-Theater Kids,Normcore
+Theatre Kids,High School Dream
+Theatre Kids,Theatre Academia
+Theatre Kids,Musical Academia
+Theatre Kids,Tweencore
+Theatre Kids,Preppy
+Theatre Kids,Normcore
 Thrasher,Metal
 Thriftcore,Cottagecore
 Thriftcore,Grunge
@@ -3281,6 +4020,25 @@ Thriftcore,Punk
 Thriftcore,Metal
 Thriftcore,Rock
 Thriftcore,Vintage
+Tiki,Tropical
+Tiki,Lounge
+Tiki,Americana
+Tiki,Vintage
+Tiki,Vacation Dadcore
+Tiki,Tropical
+Tiki,Lounge
+Tiki,Americana
+Tiki,Vintage
+Tiki,Vacation Dadcore
+Tinkercore,Gadgetpunk
+Tinkercore,Science Academia
+Tinkercore,Steampunk
+Tinycore,Fairycore
+Tinycore,Goblincore
+Tinycore,Kidcore
+Tinycore,Miniaturecore
+Tinycore,Craftcore
+Tinycore,Groundcore
 Tomboy,Adventurecore
 Tomboy,Baddie
 Tomboy,Brocore
@@ -3317,13 +4075,18 @@ Traumacore,Happycore
 Traumacore,Havencore
 Traumacore,Liminal Space
 Traumacore,Morute
-Traumacore,Pale
+Traumacore,Pale Grunge
 Traumacore,Sadpeople
 Traumacore,Sanriocore
 Traumacore,Southern Gothic
 Traumacore,Voidpunk
 Traumacore,Yami Kawaii
 Traumacore,Weirdcore
+Trenchcore,Earthcore
+Trenchcore,Military
+Trenchcore,Naturecore
+Trenchcore,Royalcore
+Trenchcore,Vintage
 Trendercore,Pride flags
 Trendercore,Queer Academia
 Trendercore,Queercore
@@ -3343,9 +4106,20 @@ Tropical,Reefwave
 Tropical,Seapunk
 Tropical,Summer
 Tropical,Vacation Dadcore
+Vacation Dadcore,Cartelcore
+Vacation Dadcore,Lounge
+Vacation Dadcore,Poolcore
+Vacation Dadcore,Reefwave
+Vacation Dadcore,Summer
+Vacation Dadcore,Tropical
+Vacation Dadcore,Vaporwave
+Tumblewave,Country
+Tumblewave,Vaporwave
 Tupinipunk,Afrofuturism
 Tupinipunk,Cyberpunk
 Tupinipunk,Nanopunk
+Twee,Vintage
+Twee,Hipster
 Tweencore,Animecore
 Tweencore,Barbiecore
 Tweencore,High School Dream
@@ -3353,11 +4127,35 @@ Tweencore,Kidcore
 Tweencore,Old Web
 Tweencore,Scene
 Tweencore,McBling
-Twee,Vintage
-Twee,Hipster
+Fairy Kei,Pastel
+Fairy Kei,Vintage
+Fairy Kei,Yume Kawaii
+Fairy Kei,Decora
+Fairy Kei,Cult Party Kei
+Fairy Kei,Unicorncore
 Ukiyo-e,Art Academia
 Ulzzang,Hallyu
 Ulzzang,Baddie
+Unicorncore,Sparklecore
+Unicorncore,Pastel
+Unicorncore,Rainbowcore
+Unicorncore,Pastel Academia
+Unicorncore,Fairy Kei
+Unicorncore,Yume Kawaii
+Unicorncore,Kawaii
+Unicorncore,Happycore
+Unicorncore,Spacecore
+Unicorncore,Pastel Punk
+Unicorncore,Pastel Goth
+Unicorncore,Bubblegum Witch
+Unicorncore,Witchcore
+Unliminal Space,Liminal Space
+Urban Fantasy,Dragoncore
+Urban Fantasy,Fantasy
+Urban Fantasy,Urbancore
+Urban Fantasy,Vampire
+Urban Fantasy,Witchcore
+Urban Fantasy,Witchy Academia
 Urbancore,After Hours
 Urbancore,Art Hoe
 Urbancore,Baddie
@@ -3377,19 +4175,21 @@ Urbancore,Punk
 Urbancore,Skater
 Urbancore,Superflat Pop
 Urbancore,Vintage
-Unicorncore,Sparklecore
-Unicorncore,Pastel
-Unicorncore,Rainbowcore
-Unicorncore,Pastel Academia
-Unicorncore,Fairy Kei
-Unicorncore,Yume Kawaii
-Unicorncore,Kawaii
-Unicorncore,Happycore
-Unicorncore,Spacecore
-Unicorncore,Pastel Punk
-Unicorncore,Pastel Goth
-Unicorncore,Bubblegum Witch
-Unicorncore,Witchcore
+VARIOUSXYZ,Kidcore
+VARIOUSXYZ,Vaporwave
+VSCO,E-Girl
+VSCO,Hippie
+VSCO,Art Hoe
+VSCO,E-Boy
+VSCO,High School Dream
+VSCO,Vintage
+VSCO,Comfy/Cozy
+VSCO,Winter
+VSCO,Autumn
+VSCO,Christian Girl Autumn
+VSCO Preppy,VSCO
+VSCO Preppy,Preppy
+VSCO Preppy,Common White Girl
 Vacation Dadcore,Cartelcore
 Vacation Dadcore,Lounge
 Vacation Dadcore,Poolcore
@@ -3405,13 +4205,14 @@ Vampire,Victorian
 Vampire,Victorian Goth
 Vampire,Werewolf
 Vampire,Witchcore
-Vaporwave,Anime
+Vaporcottage,Vaporwave
+Vaporcottage,Cottagecore
+Vaporwave,Animecore
 Vaporwave,Cassette Futurism
 Vaporwave,Cleancore
 Vaporwave,Cyberdelic
 Vaporwave,Cyberpunk
 Vaporwave,Drugcore
-Vaporwave,Glitch
 Vaporwave,Glowwave
 Vaporwave,Holosexual
 Vaporwave,Icepunk
@@ -3430,6 +4231,11 @@ Vaporwave,Y2K
 Vaporwave,New Romantic
 Vaporwave,New Wave
 Vaporwave,City Pop
+Vectorheart,Y2K
+Vectorheart,Metalheart
+Vectorheart,Breakcore
+Vectorheart,Old Web
+Vectorheart,Urbancore
 Vibrant Academia,Twee
 Vibrant Academia,Pastel Academia
 Vibrant Academia,Light Academia
@@ -3447,32 +4253,32 @@ Victorian,Vintage
 Victorian Goth,Goth
 Victorian Goth,Victorian
 Victorian Goth,Romantic Goth
-Vintage,Hipster
-Vintage,Grunge
-Vintage,Hippie
-Vintage,Nostalgiacore
-Vintage,Vintage Academia
+Villagecore,Cottagecore
+Villagecore,Rusticcore
+Villagecore,Vintage
+Villaincore,Darkest Academia
+Villaincore,Devilcore
+Villaincore,Gorecore
+Villaincore,Halloween
+Villaincore,Horror
+Villaincore,Vampire
+Villaincore,Victorian
+Villaincore,Yandere
+Villaincore,Zombiecore
 Vintage,Bohemian
-Vintage,Fairy Kei
-Vintage,Minimalism
-Vintage,Victorian
 Vintage,Cottagecore
 Vintage,Cult Party Kei
-Vintage,Mori Kei
 Vintage,Dolly Kei
+Vintage,Fairy Kei
+Vintage,Grunge
+Vintage,Hippie
+Vintage,Hipster
+Vintage,Minimalism
+Vintage,Mori Kei
+Vintage,Nostalgiacore
 Vintage,Scrapbook
-Vintage Academia,Classic Academia
-Vintage Academia,Dark Academia
-Vintage Academia,Grunge
-Vintage Academia,Hippie
-Vintage Academia,Hellenic
-Vintage Academia,Nostalgiacore
-Vintage Academia,Romantic Academia
-Vintage Academia,Vintage
-Vintage Academia,Grunge
-Vintage Academia,Hippie
-Vintage Academia,Nostalgiacore
-Vintage Academia,Vintage
+Vintage,Victorian
+Virgo's Tears,Auroracore
 Virgo's Tears,Bloomcore
 Virgo's Tears,Mori Kei
 Virgo's Tears,Naturecore
@@ -3486,16 +4292,13 @@ Visual Kei,Oshare Kei
 Visual Kei,Punk
 Visual Kei,New Romantic
 Visual Kei,Deathrock
-VSCO Girl,E-Girl
-VSCO Girl,Hippie
-VSCO Girl,Art Hoe
-VSCO Boy,E-Boy
-Dark VSCO,High School Dream
-Dark VSCO,Vintage
-Winter VSCO,Comfy/Cozy
-Winter VSCO,Winter
-Autumn VSCO,Autumn
-Autumn VSCO,Christian Girl Autumn
+Voidcore,Weirdcore
+Voidcore,Cryptidcore
+Voidcore,Liminal Space
+Voidcore,After Hours
+Voidcore,Morute
+Voidcore,Witch House
+Voidcore,Spacecore
 Voidpunk,Traumacore
 Voidpunk,Cryptidcore
 Voidpunk,Queercore
@@ -3509,7 +4312,7 @@ Vulture Culture,Crowcore
 Vulture Culture,Forestpunk
 Vulture Culture,Goblincore
 Vulture Culture,Naturecore
-Vulture Culture,Natural Philosophy
+Vulture Culture,Green Academia
 Vulture Culture,Woodland Goth
 Wabi-Sabi,Art Academia
 Wabi-Sabi,Craftcore
@@ -3541,16 +4344,38 @@ Warmcore,Ethereal
 Warmcore,Dreamy
 Warmcore,Heatwave
 Warmcore,Naturecore
-Weirdcore,Surrealism
-Weirdcore,Dreamcore
-Weirdcore,Old Web
+Weeaboo,Animecore
+Weeaboo,Animecore
+Weeaboo,Classic Lolita
+Weeaboo,Dual Kawaii
+Weeaboo,E-Boy
+Weeaboo,E-Girl
+Weeaboo,Furry
+Weeaboo,Hot Topic
+Weeaboo,Kawaii
+Weeaboo,Kuromicore
+Weeaboo,Lolita
+Weeaboo,Maidcore
+Weeaboo,Mall Ninja
+Weeaboo,Neko
+Weeaboo,Nerdcore
+Weeaboo,Nostalgiacore
+Weeaboo,Otherkin
+Weeaboo,Pastel Goth
+Weeaboo,Pastel
+Weeaboo,Sanriocore
+Weeaboo,Tweencore
+Weeaboo,Yume Kawaii
+Weeaboo,Yandere
 Weirdcore,After Hours
 Weirdcore,Bastardcore
+Weirdcore,Dreamcore
 Weirdcore,Kidcore
 Weirdcore,Liminal Space
 Weirdcore,Nostalgiacore
+Weirdcore,Old Web
+Weirdcore,Surrealism
 Werewolf,Fantasy
-Werewolf,Caninecore
 Werewolf,Vampire
 Werewolf,Witchcore
 Werewolf,Halloween
@@ -3559,16 +4384,23 @@ Western,Americana
 Western,Cottagecore
 Western,Country
 Western,Prairiecore
+Wetcore,Gloomcore
+Wetcore,Junglecore
+Wetcore,Ocean Academia
+Wetcore,Seapunk
+Wetcore,Nautical
+Wetcore,Country
+Wetcore,Naturecore
+Wild Child,Adventurecore
+Wild Child,Indie
+Wild Child,Naturecore
+Wild Child,Hipster
+Wild Child,Tomboy
 Winter,Icepunk
 Winter,Autumn
 Winter,Summer
 Winter,Spring
 Winter,Comfy/Cozy
-Witchy Academia,Dark Academia
-Witchy Academia,Light Academia
-Witchy Academia,Studyblr
-Witchy Academia,Studyplace
-Witchy Academia,Witchcore
 Witch House,Nu-Goth
 Witch House,Cyberpunk
 Witch House,Goth
@@ -3585,6 +4417,7 @@ Witchcore,Angelcore
 Witchcore,Bloomcore
 Witchcore,Bubblegum Witch
 Witchcore,Cabincore
+Witchcore,Cryptkeepercore
 Witchcore,Cottagecore
 Witchcore,Cottagegore
 Witchcore,Cryptidcore
@@ -3608,6 +4441,11 @@ Witchcore,Ravencore
 Witchcore,Werewolf
 Witchcore,Witch House
 Witchcore,Witchy Academia
+Witchy Academia,Dark Academia
+Witchy Academia,Light Academia
+Witchy Academia,Studyblr
+Witchy Academia,Studyplace
+Witchy Academia,Witchcore
 Wizardcore,Witchcore
 Wizardcore,Dark Academia
 Wizardcore,Light Academia
@@ -3615,10 +4453,14 @@ Wizardcore,Chaotic Academia
 Wizardcore,Fantasy
 Wizardcore,Cabincore
 Wizardcore,Naturecore
-Wonderland,Cottagecore
 Wonderland,Chaotic Academia
+Wonderland,Cottagecore
+Wonderland,Cottagegore
+Wonderland,Spiritcore
+Wonderland,Weirdcore
 Woodland Goth,Dark Fantasy
 Woodland Goth,Ballet Academia
+Woodland Goth,Cryptkeepercore
 Woodland Goth,Cottagecore
 Woodland Goth,Cottagegore
 Woodland Goth,Deathrock
@@ -3643,14 +4485,13 @@ Writer Academia,Dark Academia
 Writer Academia,Light Academia
 Writer Academia,Romantic Academia
 Y2K,Abstract Tech
-Y2K,Anime
-Y2K,CHEIRON CRUSH
+Y2K,Animecore
+Y2K,Cheiron Crush
 Y2K,Cyberpop
 Y2K,ElectroPop 08
 Y2K,Frutiger Aero
 Y2K,Holosexual
 Y2K,McBling
-Y2K,Milleniwave
 Y2K,MTV Green Sky
 Y2K,Poolcore
 Y2K,Pop
@@ -3683,6 +4524,9 @@ Yankeecore,Americana
 Yanki,Bosozoku
 Yanki,Sukeban
 Yanki,Yakuza
+Youthquake,Hippie
+Youthquake,Mod
+Youthquake,Teddies
 Yume Kawaii,Animecore
 Yume Kawaii,Babycore
 Yume Kawaii,Decora
@@ -3699,18 +4543,3 @@ Zombiecore,Grunge
 Zombiecore,Military
 Zombiecore,Post-Apocalyptic
 Zombiecore,Soggy
-1950s Suburbia,Diner
-1950s Suburbia,Americana
-2 Tone,New Wave
-2 Tone,Punk
-70s Disco,Club
-70s Disco,Psychedelica
-70s Disco,Rollerwave
-70s Disco,Glam Rock
-70s Disco,New Romantic
-70s Disco,Club Kids
-70s Disco,City Pop
-70s Disco,Vaporwave
-70s Disco,Androgynous
-70s Disco,R&B
-70s Disco,Afrofuturism
